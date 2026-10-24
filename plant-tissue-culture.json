@@ -1,0 +1,2460 @@
+{
+  "version": "2026-10-24-plant-tissue-culture-v1",
+  "subject": "plant_tissue_culture",
+  "title": "植物組織培養題庫",
+  "total": 78,
+  "topics": [
+    {
+      "name": "研究歷史與細胞全能性",
+      "count": 18
+    },
+    {
+      "name": "大量繁殖與育種應用",
+      "count": 5
+    },
+    {
+      "name": "培養基與營養",
+      "count": 15
+    },
+    {
+      "name": "次級代謝與毛狀根",
+      "count": 5
+    },
+    {
+      "name": "培養環境、生長與無菌操作",
+      "count": 13
+    },
+    {
+      "name": "植物激素與生長調節",
+      "count": 7
+    },
+    {
+      "name": "癒傷組織形成",
+      "count": 5
+    },
+    {
+      "name": "體細胞胚與器官發生",
+      "count": 10
+    }
+  ],
+  "cards": [
+    {
+      "id": "plant-tissue-culture-001",
+      "number": "0001",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "提出植物細胞全能性（Cellular Totipotency）假說的學者為何？",
+      "options": [
+        "(A) Haberlandt",
+        "(B) Steward",
+        "(C) Bergmann",
+        "(D) Carlson"
+      ],
+      "answer": "A",
+      "explanation": "Haberlandt 主張具有完整細胞核的植物細胞含有再生完整植株所需的遺傳資訊。\n\n選項解析：（A）正確，Haberlandt 主張具有完整細胞核的植物細胞含有再生完整植株所需的遺傳資訊；（B）錯誤， Steward 後來以胡蘿蔔證實全能性；（C）錯誤，Bergmann 以單細胞平板培養著稱；（D）錯誤，Carlson 研究原生質體融合所得體細胞雜種",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 1,
+          "question": "1",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-002",
+      "number": "0002",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "關於 Haberlandt 在 1902 年離體培養研究的敘述，何者正確？",
+      "options": [
+        "(A) 已成功由單細胞再生成完整植株",
+        "(B) 曾使用 Knop 營養液培養分離的葉肉細胞",
+        "(C) 以胡蘿蔔細胞證明體細胞胚胎發生",
+        "(D) 以原生質體融合形成雜種"
+      ],
+      "answer": "B",
+      "explanation": "他培養分離的葉肉柵狀細胞，以無機鹽與蔗糖的 Knop 營養液維持細胞存活與代謝，但未成功誘導分裂。\n\n選項解析：（A）錯誤，當時尚未再生完整植株；（B）正確，他培養分離的葉肉柵狀細胞，以無機鹽與蔗糖的 Knop 營養液維持細胞存活與代謝，但未成功誘導分裂；（C）錯誤，Steward 的研究才對應胡蘿蔔體細胞胚；（D）錯誤，原生質體融合的代表事件是 1972 年 Carlson",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 1,
+          "question": "2",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-003",
+      "number": "0003",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "依教材，早期 Haberlandt 研究未能誘導細胞分裂的重要限制是？",
+      "options": [
+        "(A) 缺乏光合作用所需的葉綠素",
+        "(B) 培養容器沒有加入酒精",
+        "(C) 當時尚未發現並正確應用生長素與細胞分裂素",
+        "(D) 使用過高濃度抗生素"
+      ],
+      "answer": "C",
+      "explanation": "教材指出當時尚未發現 Auxin、Cytokinin 等生長調節劑，雖可讓細胞存活，尚難重新啟動分裂。\n\n選項解析：（A）錯誤，葉肉細胞含有葉綠素，並非此處主因；（B）錯誤，酒精不是細胞分裂所需調節物；（C）正確，教材指出當時尚未發現 Auxin、Cytokinin 等生長調節劑，雖可讓細胞存活，尚難重新啟動分裂；（D）錯誤，教材未將抗生素設定為原因",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 1,
+          "question": "3",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-004",
+      "number": "0004",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "細胞全能性的核心意義是？",
+      "options": [
+        "(A) 每個細胞都必須永久保持分化狀態",
+        "(B) 只有受精卵具有完整基因組",
+        "(C) 所有細胞在任何環境下都必然再生",
+        "(D) 具適當條件的細胞可由所含遺傳資訊再生完整植株"
+      ],
+      "answer": "D",
+      "explanation": "全能性是再生潛能，不表示在所有培養條件下必定自然發生。\n\n選項解析：（A）錯誤，細胞可經脫分化與再分化；（B）錯誤，體細胞也可能保有完整基因組；（C）錯誤，再生需合宜培養條件，不能省略限制；（D）正確，全能性是再生潛能，不表示在所有培養條件下必定自然發生",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 1,
+          "question": "4",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-005",
+      "number": "0005",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "1939 年以胡蘿蔔根部形成層培養出可長期繼代癒傷組織的學者為何？",
+      "options": [
+        "(A) Roger Gautheret",
+        "(B) Philip White",
+        "(C) Tulecke",
+        "(D) Nagata"
+      ],
+      "answer": "A",
+      "explanation": "教材將胡蘿蔔形成層、含蔗糖與 B 群維生素及 Auxin 的培養條件與 Gautheret 相連。\n\n選項解析：（A）正確，教材將胡蘿蔔形成層、含蔗糖與 B 群維生素及 Auxin 的培養條件與 Gautheret 相連；（B）錯誤， White 的代表材料是番茄根尖；（C）錯誤，Tulecke 研究銀杏花粉培養；（D）錯誤，Nagata 與 Takebe 研究菸草原生質體再生",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 2,
+          "question": "5",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-006",
+      "number": "0006",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "「慣化作用」（Habituation）最符合何種情況？",
+      "options": [
+        "(A) 細胞完全失去核酸合成能力",
+        "(B) 長期繼代的癒傷組織不再依賴外加 Auxin 仍可生長",
+        "(C) 細胞每次繼代都必須增加 Auxin",
+        "(D) 癒傷組織永久停止分裂"
+      ],
+      "answer": "B",
+      "explanation": "某些組織在長期受外源生長素刺激後，形成對外源生長素需求降低或可自主生長的現象。\n\n選項解析：（A）錯誤，細胞仍須維持代謝；（B）正確，某些組織在長期受外源生長素刺激後，形成對外源生長素需求降低或可自主生長的現象；（C）錯誤，此現象恰與持續依賴外源 Auxin 不同；（D）錯誤，慣化組織可自主增殖而非停止分裂",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 2,
+          "question": "6",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-007",
+      "number": "0007",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "Philip White 於 1934 年成功長期連續培養的材料是？",
+      "options": [
+        "(A) 胡蘿蔔葉片",
+        "(B) 銀杏花粉",
+        "(C) 番茄根尖",
+        "(D) 菸草原生質體"
+      ],
+      "answer": "C",
+      "explanation": "White 利用番茄根尖達成離體根器官長期連續生長，並發展 White 氏培養基。\n\n選項解析：（A）錯誤，胡蘿蔔形成層與 Gautheret 相關；（B）錯誤，銀杏花粉培養與 Tulecke 相關；（C）正確，White 利用番茄根尖達成離體根器官長期連續生長，並發展 White 氏培養基；（D）錯誤，菸草原生質體再生與 Nagata、Takebe 相關",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 2,
+          "question": "7",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-008",
+      "number": "0008",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "White 氏培養基在教材中的重要特色是？",
+      "options": [
+        "(A) 只含蒸餾水",
+        "(B) 完全排除維生素",
+        "(C) 必須添加高量 NaCl",
+        "(D) 建立適用根系培養、含調整無機鹽與有機營養的配方"
+      ],
+      "answer": "D",
+      "explanation": "White 發展適用根與組織培養的合成培養基，並重視維生素等有機營養成分。\n\n選項解析：（A）錯誤，純水不足以供應養分；（B）錯誤，教材強調 B 群維生素的重要性；（C）錯誤，高鹽不是本教材所描述的配方優點；（D）正確，White 發展適用根與組織培養的合成培養基，並重視維生素等有機營養成分",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 2,
+          "question": "8",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-009",
+      "number": "0009",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "White 特別指出有利於離體組織生長的營養素是？",
+      "options": [
+        "(A) 維生素 B1（Thiamine）及菸鹼酸",
+        "(B) 膽固醇及乳糖",
+        "(C) 乙烯及離酸",
+        "(D) 甲醛及乙醇"
+      ],
+      "answer": "A",
+      "explanation": "教材以 B1 和菸鹼酸為重要例子，指出部分離體組織對有機維生素的需求。\n\n選項解析：（A）正確，教材以 B1 和菸鹼酸為重要例子，指出部分離體組織對有機維生素的需求；（B）錯誤，此組不是教材提出的關鍵維生素；（C）錯誤，乙烯與離酸屬生長調節相關，不是該處營養素；（D）錯誤，甲醛與乙醇並非所述維生素",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 3,
+          "question": "9",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-010",
+      "number": "0010",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "教材將 1939 年由胡蘿蔔癒傷組織觀察根與芽分化的研究連結至何人？",
+      "options": [
+        "(A) Carlson",
+        "(B) Pierre Nob[原檔缺字]court",
+        "(C) Bergmann",
+        "(D) Tulecke"
+      ],
+      "answer": "B",
+      "explanation": "教材記載 Nob[原檔缺字]court 在長期培養胡蘿蔔癒傷組織後，觀察並誘導根、芽分化。\n\n選項解析：（A）錯誤，Carlson 研究體細胞雜種；（B）正確，教材記載 Nob[原檔缺字]court 在長期培養胡蘿蔔癒傷組織後，觀察並誘導根、芽分化；（C）錯誤，Bergmann 研究單細胞平板培養；（D）錯誤，Tulecke 研究銀杏花粉培養",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 3,
+          "question": "10",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：人名 Nob…court 的中間字元在原PDF題面及解析均為空白。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-011",
+      "number": "0011",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "體細胞胚胎發生（Somatic Embryogenesis）經典的發育階段順序為何？",
+      "options": [
+        "(A) 魚雷胚→心形胚→球形胚→原胚",
+        "(B) 球形胚→原胚→成熟胚→心形胚",
+        "(C) 原胚→球形胚→心形胚→魚雷胚→成熟胚",
+        "(D) 成熟胚→原胚→魚雷胚→球形胚"
+      ],
+      "answer": "C",
+      "explanation": "教材將體細胞胚由原胚、球形、心形、魚雷形進入成熟胚依序排列。\n\n選項解析：（A）錯誤，將後期放在最前且次序錯誤；（B）錯誤，原胚應早於球形胚；（C）正確，教材將體細胞胚由原胚、球形、心形、魚雷形進入成熟胚依序排列；（D）錯誤，成熟胚不可能作為此典型序列起點",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 3,
+          "question": "11",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-012",
+      "number": "0012",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "1955–1958 年以胡蘿蔔單細胞懸浮培養並再生完整植株的代表學者是？",
+      "options": [
+        "(A) White 與 Haberlandt",
+        "(B) Gautheret 與 Carlson",
+        "(C) Tulecke 與 Bergmann",
+        "(D) Steward 與 Shantz"
+      ],
+      "answer": "D",
+      "explanation": "Steward 與 Shantz 以胡蘿蔔根部韌皮部細胞培養，最終再生植株，提供全能性實驗證據。\n\n選項解析：（A）錯誤，兩人貢獻在其他時期與面向；（B）錯誤，Carlson 與原生質體雜種相關；（C）錯誤，此組對應花粉與平板培養；（D）正確，Steward 與 Shantz 以胡蘿蔔根部韌皮部細胞培養，最終再生植株，提供全能性實驗證據",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 3,
+          "question": "12",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-013",
+      "number": "0013",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "1957 年利用銀杏進行花粉培養的學者為何？",
+      "options": [
+        "(A) Tulecke",
+        "(B) Steward",
+        "(C) Carlson",
+        "(D) Haberlandt"
+      ],
+      "answer": "A",
+      "explanation": "教材明列 Tulecke：Pollen culture of Ginkgo biloba（1957）。\n\n選項解析：（A）正確，教材明列 Tulecke：Pollen culture of Ginkgo biloba（1957）；（B）錯誤，Steward 著重胡蘿蔔細胞胚；（C）錯誤，Carlson 著重原生質體融合；（D）錯誤，Haberlandt 著重早期細胞全能性概念",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 3,
+          "question": "13",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-014",
+      "number": "0014",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "Bergmann 在 1960 年建立的代表性方法為何？",
+      "options": [
+        "(A) 花藥培養",
+        "(B) 單細胞平板培養（Plating culture）",
+        "(C) 原生質體融合",
+        "(D) 體細胞胚冷凍保存"
+      ],
+      "answer": "B",
+      "explanation": "Bergmann 將單細胞分散於薄層半固態培養基，讓細胞分裂形成群落。\n\n選項解析：（A）錯誤，教材另列花粉培養事件；（B）正確，Bergmann 將單細胞分散於薄層半固態培養基，讓細胞分裂形成群落；（C）錯誤，原生質體融合屬 Carlson 事件；（D）錯誤，非 Bergmann 此項貢獻",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 4,
+          "question": "14",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-015",
+      "number": "0015",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "教材記載 Bergmann 單細胞平板培養使用的洋菜濃度為何？",
+      "options": [
+        "(A) 0.06%",
+        "(B) 6%",
+        "(C) 0.6%",
+        "(D) 60%"
+      ],
+      "answer": "C",
+      "explanation": "教材列出 0.6% agar medium，將單細胞包埋／分散於培養基薄層以形成菌落樣細胞群落。\n\n選項解析：（A）錯誤，低於教材數值十倍；（B）錯誤，高於教材數值十倍；（C）正確，教材列出 0.6% agar medium，將單細胞包埋／分散於培養基薄層以形成菌落樣細胞群落；（D）錯誤，遠高於正常凝膠用量",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 4,
+          "question": "15",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-016",
+      "number": "0016",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "1971 年 Nagata 與 Takebe 的研究成果是？",
+      "options": [
+        "(A) 首次提出全能性假說",
+        "(B) 首次建立 White 氏培養基",
+        "(C) 成功培養銀杏花粉",
+        "(D) 由菸草原生質體再生植株"
+      ],
+      "answer": "D",
+      "explanation": "教材明列 Nagata & Takebe：plant regeneration from tobacco protoplast（1971）。\n\n選項解析：（A）錯誤，全能性假說由 Haberlandt 提出；（B）錯誤，White 氏培養基由 Philip White 發展；（C）錯誤，銀杏花粉培養與 Tulecke 相關；（D）正確，教材明列 Nagata & Takebe：plant regeneration from tobacco protoplast （1971）",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 4,
+          "question": "16",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-017",
+      "number": "0017",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "Carlson 於 1972 年示範的技術為何？",
+      "options": [
+        "(A) 以原生質體融合產生體細胞雜種",
+        "(B) 利用花粉誘導單倍體",
+        "(C) 由種子無菌發芽",
+        "(D) 建立細胞懸浮生長曲線"
+      ],
+      "answer": "A",
+      "explanation": "Carlson 利用不同菸草物種的原生質體融合建立體細胞雜種。\n\n選項解析：（A）正確，Carlson 利用不同菸草物種的原生質體融合建立體細胞雜種；（B）錯誤，花粉培養不等同原生質體融合；（C）錯誤，與原教材所列事件不符；（D）錯誤，非 Carlson 該事件重點",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 4,
+          "question": "17",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-018",
+      "number": "0018",
+      "section": "研究歷史與細胞全能性",
+      "topic": "研究歷史與細胞全能性",
+      "question": "將二倍體染色體數 24 與 18 的菸草原生質體融合，教材列出的體細胞雜種染色體數為？",
+      "options": [
+        "(A) 21",
+        "(B) 42",
+        "(C) 48",
+        "(D) 36"
+      ],
+      "answer": "B",
+      "explanation": "教材將 2n＝24 與 2n＝18 相加，得到體細胞融合雜種 2n＝42。\n\n選項解析：（A）錯誤，非兩者直接加總；（B）正確，教材將 2n＝24 與 2n＝18 相加，得到體細胞融合雜種 2n＝42；（C）錯誤，非兩者直接加總；（D）錯誤，非兩者直接加總",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 4,
+          "question": "18",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-019",
+      "number": "0019",
+      "section": "大量繁殖與育種應用",
+      "topic": "大量繁殖與育種應用",
+      "question": "下列何者不屬於教材列出的植物組織培養大量繁殖型式？",
+      "options": [
+        "(A) 分化植株",
+        "(B) 癒傷組織",
+        "(C) 單純野外露地播種，不進行離體培養",
+        "(D) 懸浮細胞"
+      ],
+      "answer": "C",
+      "explanation": "教材列出植株、癒傷組織、懸浮細胞、胚或組織、轉基因材料等；露地播種不是離體組織培養類型。\n\n選項解析：（A）錯誤，教材明列植株；（B）錯誤，教材明列癒傷組織；（C）正確，教材列出植株、癒傷組織、懸浮細胞、胚或組織、轉基因材料等；露地播種不是離體組織培養類型；（D）錯誤，教材明列懸浮細胞",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 5,
+          "question": "19",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-020",
+      "number": "0020",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "下列何者最符合植物生長所需的「維持代謝速率之催化劑」？",
+      "options": [
+        "(A) 葡萄糖與澱粉",
+        "(B) 水與二氧化碳",
+        "(C) 核酸與脂質",
+        "(D) 酵素與輔助因子"
+      ],
+      "answer": "D",
+      "explanation": "教材將酵素及 cofactors 分列為促進並維持代謝反應的催化系統。\n\n選項解析：（A）錯誤，屬物質或能量來源；（B）錯誤，屬基本物質；（C）錯誤，屬細胞組成物質；（D）正確，教材將酵素及 cofactors 分列為促進並維持代謝反應的催化系統",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 5,
+          "question": "20",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-021",
+      "number": "0021",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "下列何者屬教材所列基礎培養基營養成分組合？",
+      "options": [
+        "(A) 大量鹽類、微量鹽類、維生素、醣類",
+        "(B) 只有植物生長調節劑",
+        "(C) 只有誘引劑與前驅物",
+        "(D) 只有動物血清"
+      ],
+      "answer": "A",
+      "explanation": "MS、WPM 等基本培養基以鹽類、維生素與糖類等為基礎；調節劑及前驅物依研究需要添加。\n\n選項解析：（A）正確，MS、WPM 等基本培養基以鹽類、維生素與糖類等為基礎；調節劑及前驅物依研究需要添加；（B）錯誤，激素不能取代所有營養；（C）錯誤，誘引劑不能取代基礎營養；（D）錯誤，教材未將動物血清作為必需基礎項",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 5,
+          "question": "21",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-022",
+      "number": "0022",
+      "section": "大量繁殖與育種應用",
+      "topic": "大量繁殖與育種應用",
+      "question": "組織培養中花藥培養的重要育種應用是？",
+      "options": [
+        "(A) 產生體細胞雜種",
+        "(B) 培育單倍體及同質雙倍體以縮短育種時間",
+        "(C) 誘導毛狀根",
+        "(D) 使所有植物恢復有性繁殖"
+      ],
+      "answer": "B",
+      "explanation": "花藥培養可取得單倍體，再經染色體加倍形成同質雙倍體，縮短純系建立時程。\n\n選項解析：（A）錯誤，體細胞雜種主要藉原生質體融合；（B）正確，花藥培養可取得單倍體，再經染色體加倍形成同質雙倍體，縮短純系建立時程；（C）錯誤，毛狀根與農桿菌相關；（D）錯誤，並非花藥培養的普遍結果",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 5,
+          "question": "22",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-023",
+      "number": "0023",
+      "section": "大量繁殖與育種應用",
+      "topic": "大量繁殖與育種應用",
+      "question": "遠緣雜交後胚容易退化，教材建議何種離體技術來克服障礙？",
+      "options": [
+        "(A) 細胞平板培養",
+        "(B) 長期黑暗培養",
+        "(C) 胚培養（Embryo culture）與試管授精",
+        "(D) 凝膠劑替換"
+      ],
+      "answer": "C",
+      "explanation": "胚培養與試管授精可用於克服雜交不親和及挽救即將退化的幼胚。\n\n選項解析：（A）錯誤，不是本題胚拯救的主要手段；（B）錯誤，暗培養不能直接克服遺傳不親和；（C）正確，胚培養與試管授精可用於克服雜交不親和及挽救即將退化的幼胚；（D）錯誤，更換凝膠並非胚拯救的核心方法",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 5,
+          "question": "23",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-024",
+      "number": "0024",
+      "section": "大量繁殖與育種應用",
+      "topic": "大量繁殖與育種應用",
+      "question": "利用離體細胞發育形成類胚構造，再製作人工種子，最直接利用的材料是？",
+      "options": [
+        "(A) 普通木栓層",
+        "(B) 乾燥樹皮",
+        "(C) 成熟花粉壁",
+        "(D) 體細胞胚（擬胚體）"
+      ],
+      "answer": "D",
+      "explanation": "教材將由細胞培養形成的擬胚體與人工種子製作相連。\n\n選項解析：（A）錯誤，木栓層不是此處主要繁殖單位；（B）錯誤，乾燥樹皮不具體胚再生功能；（C）錯誤，成熟花粉壁不是擬胚體；（D）正確，教材將由細胞培養形成的擬胚體與人工種子製作相連",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 6,
+          "question": "24",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-025",
+      "number": "0025",
+      "section": "大量繁殖與育種應用",
+      "topic": "大量繁殖與育種應用",
+      "question": "原生質體融合在植物育種上的主要用途是？",
+      "options": [
+        "(A) 獲得體細胞雜種",
+        "(B) 單純加強呼吸作用",
+        "(C) 測量光合作用速率",
+        "(D) 避免使用任何培養基"
+      ],
+      "answer": "A",
+      "explanation": "去除細胞壁後的原生質體可融合，培養並再生為不同來源細胞核或細胞質組合的體細胞雜種。\n\n選項解析：（A）正確，去除細胞壁後的原生質體可融合，培養並再生為不同來源細胞核或細胞質組合的體細胞雜種；（B）錯誤，不是原生質體融合最直接目的；（C）錯誤，與本技術目的不同；（D）錯誤，融合後仍需適當培養條件",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 6,
+          "question": "25",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-026",
+      "number": "0026",
+      "section": "次級代謝與毛狀根",
+      "topic": "次級代謝與毛狀根",
+      "question": "依教材，毛狀根（Hairy roots）培養與哪種菌最相關？",
+      "options": [
+        "(A) Rhizobium leguminosarum",
+        "(B) Agrobacterium rhizogenes",
+        "(C) Escherichia coli",
+        "(D) Bacillus subtilis"
+      ],
+      "answer": "B",
+      "explanation": "教材指出可利用 Agrobacterium rhizogenes 轉殖誘發毛狀根，進行發根與次級代謝物生產。\n\n選項解析：（A）錯誤，不是此處列出的毛狀根誘導菌；（B）正確，教材指出可利用 Agrobacterium rhizogenes 轉殖誘發毛狀根，進行發根與次級代謝物生產；（C）錯誤，非教材指定病原與應用；（D）錯誤，非教材指定病原與應用",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 6,
+          "question": "26",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-027",
+      "number": "0027",
+      "section": "次級代謝與毛狀根",
+      "topic": "次級代謝與毛狀根",
+      "question": "植物細胞二階段培養的常見目的為何？",
+      "options": [
+        "(A) 第一階段完全殺死細胞",
+        "(B) 第二階段永遠不需養分",
+        "(C) 分開促進生物量增長與次級代謝物生產",
+        "(D) 將培養基全部改成固體"
+      ],
+      "answer": "C",
+      "explanation": "教材提到二階段培養可用以大量生產次級代謝物，概念是分別優化增殖與產物形成的條件。\n\n選項解析：（A）錯誤，無法在細胞死亡後持續生產；（B）錯誤，產物形成仍需要適當條件；（C）正確，教材提到二階段培養可用以大量生產次級代謝物，概念是分別優化增殖與產物形成的條件；（D）錯誤，二階段不等於必須全程固體",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 6,
+          "question": "27",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-028",
+      "number": "0028",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "依教材，固體培養相對液體培養的特色何者正確？",
+      "options": [
+        "(A) 較易形成完全分散的懸浮細胞",
+        "(B) 必須配備特殊鼓泡通氣設備",
+        "(C) 芽、根生長通常更不規則",
+        "(D) 較適合培殖體再生且芽與根生長較規則"
+      ],
+      "answer": "D",
+      "explanation": "教材列固體培養具再生方便、通常不需特殊通氣設備、器官生長較規則等優點。\n\n選項解析：（A）錯誤，固體培養反而抑制細胞散落成懸浮態；（B）錯誤，教材列不需特殊通氣設備；（C）錯誤，教材敘述相反；（D）正確，教材列固體培養具再生方便、通常不需特殊通氣設備、器官生長較規則等優點",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 6,
+          "question": "28",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-029",
+      "number": "0029",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "教材提到液體培養的優點包含下列何者？",
+      "options": [
+        "(A) 可加速癒傷組織及器官生長，並可能減少褐化",
+        "(B) 完全不需空氣交換",
+        "(C) 任何條件都必然比固體培養好",
+        "(D) 可避免所有剪切傷害"
+      ],
+      "answer": "A",
+      "explanation": "教材列液體培養可促進生長分化、排出廢物與減少褐化，但實務仍受通氣及振盪影響。\n\n選項解析：（A）正確，教材列液體培養可促進生長分化、排出廢物與減少褐化，但實務仍受通氣及振盪影響；（B）錯誤，液體培養相當重視通氣；（C）錯誤，固液優劣依材料與目的而異；（D）錯誤，高振盪可能損傷材料",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 7,
+          "question": "29",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-030",
+      "number": "0030",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "教材建議植物組織培養基配製時一般 pH 範圍為何？",
+      "options": [
+        "(A) 3.0–3.5",
+        "(B) 5.2–5.8",
+        "(C) 7.5–8.5",
+        "(D) 9.0–10.0"
+      ],
+      "answer": "B",
+      "explanation": "本教材明列一般 pH 調整 5.2–5.8，亦提到固體約 5.70、液體約 5.20 的教學例值。\n\n選項解析：（A）錯誤，低於教材範圍；（B）正確，本教材明列一般 pH 調整 5.2–5.8，亦提到固體約 5.70、液體約 5.20 的教學例值；（C）錯誤，高於教材範圍；（D）錯誤，高於教材範圍甚多",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 7,
+          "question": "30",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-031",
+      "number": "0031",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "依教材，含瓊脂培養基 pH 過高時較可能出現什麼現象？",
+      "options": [
+        "(A) 不易凝結",
+        "(B) 細胞核全部消失",
+        "(C) 培養基過硬",
+        "(D) 直接形成體細胞胚"
+      ],
+      "answer": "C",
+      "explanation": "教材將過高 pH 與固體培養基硬度增加相連；過低 pH 則可能不易凝結。\n\n選項解析：（A）錯誤，這是教材對低 pH 的描述；（B）錯誤，pH 不會必然造成細胞核消失；（C）正確，教材將過高 pH 與固體培養基硬度增加相連；過低 pH 則可能不易凝結；（D）錯誤，不能由 pH 單一因素保證體胚形成",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 7,
+          "question": "31",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-032",
+      "number": "0032",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "培養基 pH 偏低對瓊脂凝固的主要影響為何？",
+      "options": [
+        "(A) 使細胞立即脫分化",
+        "(B) 使培養基必然發黑",
+        "(C) 使所有鐵鹽瞬間沉澱",
+        "(D) 可能使凝膠不易凝結"
+      ],
+      "answer": "D",
+      "explanation": "教材強調 pH 過低會造成不易凝結，過高則可能使固體培養基過硬。\n\n選項解析：（A）錯誤，不能保證立即脫分化；（B）錯誤，不是教材的普遍描述；（C）錯誤，不能將所有鐵鹽狀態一概而論；（D）正確，教材強調 pH 過低會造成不易凝結，過高則可能使固體培養基過硬",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 7,
+          "question": "32",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-033",
+      "number": "0033",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "教材列出的洋菜（Agar）常用濃度範圍為？",
+      "options": [
+        "(A) 0.5–1%",
+        "(B) 5–10%",
+        "(C) 0.005–0.01%",
+        "(D) 20–30%"
+      ],
+      "answer": "A",
+      "explanation": "教材明示植物組織培養 agar 常用 0.5–1% 提供凝膠支撐。\n\n選項解析：（A）正確，教材明示植物組織培養 agar 常用 0.5–1% 提供凝膠支撐；（B）錯誤，濃度過高；（C）錯誤，濃度過低；（D）錯誤，遠高於一般用途",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 7,
+          "question": "33",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-034",
+      "number": "0034",
+      "section": "次級代謝與毛狀根",
+      "topic": "次級代謝與毛狀根",
+      "question": "紫草細胞培養中，Fujita 等觀察到 Shikonin 形成與何者相關？",
+      "options": [
+        "(A) 只有不加碳源才產生",
+        "(B) 固體培養可產生，而液體條件下合成停止",
+        "(C) 兩種培養方式都必然相同",
+        "(D) 加高濃度 NaCl 才產生"
+      ],
+      "answer": "B",
+      "explanation": "教材指出紫草細胞在固體培養可形成 shikonin，某液體條件則停止，顯示物理培養環境可改變次級代謝。\n\n選項解析：（A）錯誤，教材並無此結論；（B）正確，教材指出紫草細胞在固體培養可形成 shikonin，某液體條件則停止，顯示物理培養環境可改變次級代謝；（C）錯誤，培養方式確實可能造成差異；（D）錯誤，教材沒有將 NaCl 列為必要因子",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 8,
+          "question": "34",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-035",
+      "number": "0035",
+      "section": "次級代謝與毛狀根",
+      "topic": "次級代謝與毛狀根",
+      "question": "Hiraoka 比較凝膠材料時，教材指出可顯著提高紫草[原檔缺2字]色素產率的是？",
+      "options": [
+        "(A) 所有一般商業級 phytagar",
+        "(B) 只要不加凝膠即可",
+        "(C) Gelrite 與 purified agar",
+        "(D) 任意凝膠濃度都一樣"
+      ],
+      "answer": "C",
+      "explanation": "教材列 gelrite（Kelco）與 purified agar（Difco）使 naphthoquinone pigments 相較其他材料提高約 6–9 倍。\n\n選項解析：（A）錯誤，並非教材顯著提高的指定兩種；（B）錯誤，與觀察相反；（C）正確，教材列 gelrite（Kelco）與 purified agar（Difco）使 naphthoquinone pigments 相較其他材料提高約 6–9 倍；（D）錯誤，不同凝膠材質造成結果差異",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 8,
+          "question": "35",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：題幹「紫草」與「色素」之間兩個原字元空白。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-036",
+      "number": "0036",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "液態組織培養一般振盪速度在本教材列為？",
+      "options": [
+        "(A) 5–15 rpm",
+        "(B) 500–1500 rpm",
+        "(C) 200–400 rpm",
+        "(D) 50–150 rpm"
+      ],
+      "answer": "D",
+      "explanation": "教材以 50–150 rpm 為常見範圍，並強調需依通氣、培殖體大小與傷害風險調整。\n\n選項解析：（A）錯誤，遠低於教材範圍；（B）錯誤，遠高於教材範圍；（C）錯誤，高於教材所述一般範圍；（D）正確，教材以 50–150 rpm 為常見範圍，並強調需依通氣、培殖體大小與傷害風險調整",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 8,
+          "question": "36",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-037",
+      "number": "0037",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "培養液振盪過快時主要可能產生哪個問題？",
+      "options": [
+        "(A) 培殖體碰撞造成機械損傷",
+        "(B) 細胞必然變成單倍體",
+        "(C) 所有氧交換立即停止",
+        "(D) 培養液必然固化"
+      ],
+      "answer": "A",
+      "explanation": "教材指出過高轉速可能造成培殖體相互撞擊與傷害。\n\n選項解析：（A）正確，教材指出過高轉速可能造成培殖體相互撞擊與傷害；（B）錯誤，振盪不能直接決定染色體倍數；（C）錯誤，過快不等於氧交換全停止；（D）錯誤，振盪不會使液體自行凝膠化",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 8,
+          "question": "37",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-038",
+      "number": "0038",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "依 Steward 所觀察的胡蘿蔔培養情形，較低振盪速度可能較有利於？",
+      "options": [
+        "(A) 提高所有植物 DNA 倍數",
+        "(B) 細胞進一步分化成體胚",
+        "(C) 誘導細胞立即死亡",
+        "(D) 消除所有細胞變異"
+      ],
+      "answer": "B",
+      "explanation": "教材說高速有利細胞接觸營養、氣體交換與生長；低速相對有助分化為體胚。\n\n選項解析：（A）錯誤，不會必然改變倍數；（B）正確，教材說高速有利細胞接觸營養、氣體交換與生長；低速相對有助分化為體胚；（C）錯誤，低速並非必然致死；（D）錯誤，不保證排除所有變異",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 9,
+          "question": "38",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-039",
+      "number": "0039",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "關於癒傷組織誘導階段的光照，教材通常建議？",
+      "options": [
+        "(A) 一直使用最強紅光",
+        "(B) 全程 24 小時藍光",
+        "(C) 誘導癒傷組織多不照光",
+        "(D) 必須使用紫外線"
+      ],
+      "answer": "C",
+      "explanation": "教材指出誘導癒傷組織多不照光，其他器官或品種則應依生理需求配置光照。\n\n選項解析：（A）錯誤，不是普遍標準；（B）錯誤，不是普遍標準；（C）正確，教材指出誘導癒傷組織多不照光，其他器官或品種則應依生理需求配置光照；（D）錯誤，並非培養必需條件",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 9,
+          "question": "39",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-040",
+      "number": "0040",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "本教材舉例指出一般實驗室常用的光／暗週期為何？",
+      "options": [
+        "(A) 24／0 小時",
+        "(B) 4／20 小時",
+        "(C) 8／16 小時",
+        "(D) 14／10 小時"
+      ],
+      "answer": "D",
+      "explanation": "教材原文列 14 小時光照、10 小時黑暗為一常用週期；實際仍隨培養材料而變化。\n\n選項解析：（A）錯誤，不等同教材例值；（B）錯誤，不等同教材例值；（C）錯誤，不等同教材例值；（D）正確，教材原文列 14 小時光照、10 小時黑暗為一常用週期；實際仍隨培養材料而變化",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 9,
+          "question": "40",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-041",
+      "number": "0041",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "依教材所列光質作用，下列哪一組配對正確？",
+      "options": [
+        "(A) 藍光促進莖頂芽誘導；紅光有利不定根形成",
+        "(B) 藍光專門抑制芽，紅光專門抑制根",
+        "(C) 紅光必然使所有細胞停止分裂",
+        "(D) 藍光與紅光對生長完全無作用"
+      ],
+      "answer": "A",
+      "explanation": "教材引述藍光與莖頂芽誘導、紅光與不定根形成的關聯；效果仍依品種與培養條件。\n\n選項解析：（A）正確，教材引述藍光與莖頂芽誘導、紅光與不定根形成的關聯；效果仍依品種與培養條件；（B）錯誤，與教材所述方向相反；（C）錯誤，過度絕對化；（D）錯誤，與教材所述不符",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 9,
+          "question": "41",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-042",
+      "number": "0042",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "下列何種封口方式相較單純鋁箔，更有助培養容器氣體流通？",
+      "options": [
+        "(A) 完全熔封玻璃",
+        "(B) 透氣膠帶或棉栓",
+        "(C) 塑膠薄膜多層密封",
+        "(D) 完全不封蓋且放一般環境"
+      ],
+      "answer": "B",
+      "explanation": "教材列棉栓、透氣瓶蓋與 3M 透氣膠帶等方式可改善氣體交換，同時需維持無菌。\n\n選項解析：（A）錯誤，不利交換；（B）正確，教材列棉栓、透氣瓶蓋與 3M 透氣膠帶等方式可改善氣體交換，同時需維持無菌；（C）錯誤，不利交換；（D）錯誤，破壞無菌條件",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 9,
+          "question": "42",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-043",
+      "number": "0043",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "組織培養生長曲線一般依序分為哪三期？",
+      "options": [
+        "(A) 靜止期→快速期→緩慢期",
+        "(B) 快速期→靜止期→緩慢期",
+        "(C) 緩慢生長期→快速生長期→靜止期",
+        "(D) 誘導期→成熟期→休眠期"
+      ],
+      "answer": "C",
+      "explanation": "教材的典型細胞生長曲線依序為 lag、log、stationary 三期。\n\n選項解析：（A）錯誤，順序顛倒；（B）錯誤，順序顛倒；（C）正確，教材的典型細胞生長曲線依序為 lag、log、 stationary 三期；（D）錯誤，不是本頁生長曲線標準三期",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 10,
+          "question": "43",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-044",
+      "number": "0044",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "建立細胞培養生長曲線最直接的用途之一是？",
+      "options": [
+        "(A) 保證所有細胞永遠不變異",
+        "(B) 完全避免污染",
+        "(C) 使細胞無需養分",
+        "(D) 選擇繼代、原生質體分離或添加誘引劑的時機"
+      ],
+      "answer": "D",
+      "explanation": "掌握生長階段有助安排繼代培養、分離原生質體以及前驅物或誘引劑加入時點。\n\n選項解析：（A）錯誤，生長曲線不能保證遺傳穩定；（B）錯誤，不能取代無菌操作；（C）錯誤，細胞仍需養分；（D）正確，掌握生長階段有助安排繼代培養、分離原生質體以及前驅物或誘引劑加入時點",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 10,
+          "question": "44",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-045",
+      "number": "0045",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "教材列植物正常發育至少需要多少種基本元素？",
+      "options": [
+        "(A) 16 種",
+        "(B) 6 種",
+        "(C) 8 種",
+        "(D) 32 種"
+      ],
+      "answer": "A",
+      "explanation": "教材列 C、H、O、N、P、K、Ca、Mg、S 及 Fe、Mn、Cu、Zn、Cl、B、Mo，共 16 種。\n\n選項解析：（A）正確，教材列 C、H、O、N、P、K、Ca、Mg、S 及 Fe、Mn、Cu、Zn、Cl、B、Mo，共 16 種；（B）錯誤，少於教材數；（C）錯誤，少於教材數；（D）錯誤，多於教材數",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 10,
+          "question": "45",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-046",
+      "number": "0046",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "培養基中下列哪一組屬微量元素，而非教材列的大量元素？",
+      "options": [
+        "(A) N、P、K",
+        "(B) Fe、Mn、Zn",
+        "(C) Ca、Mg、S",
+        "(D) C、H、O"
+      ],
+      "answer": "B",
+      "explanation": "Fe、Mn、Zn 在教材屬微量元素；其他組合是教材列的大量元素。\n\n選項解析：（A）錯誤，均屬大量元素；（B）正確，Fe、Mn、Zn 在教材屬微量元素；其他組合是教材列的大量元素；（C）錯誤，均屬大量元素；（D）錯誤，均屬大量元素",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 10,
+          "question": "46",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-047",
+      "number": "0047",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "下列哪一鹽類為教材列舉的鉀（K）來源？",
+      "options": [
+        "(A) CaCl[原檔缺字]",
+        "(B) MgSO[原檔缺字]",
+        "(C) KNO[原檔缺字]",
+        "(D) FeSO[原檔缺字]"
+      ],
+      "answer": "C",
+      "explanation": "KNO[原檔缺字] 提供鉀，亦提供硝酸態氮；教材並列 KCl 為另一鉀來源。\n\n選項解析：（A）錯誤，主要作鈣及氯來源；（B）錯誤，主要供鎂及硫；（C）正確，KNO[原檔缺字] 提供鉀，亦提供硝酸態氮；教材並列 KCl 為另一鉀來源；（D）錯誤，作鐵來源而非鉀",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 10,
+          "question": "47",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：A–D化學式及KNO相關解析的下標字元空白。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-048",
+      "number": "0048",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "為避免鐵鹽沉澱，教材建議 FeSO[原檔缺字] 與何種物質搭配？",
+      "options": [
+        "(A) 蔗糖",
+        "(B) 乙烯",
+        "(C) 洋菜",
+        "(D) Na[原檔缺字]EDTA"
+      ],
+      "answer": "D",
+      "explanation": "Na[原檔缺字]EDTA 可與鐵離子形成螯合物（Fe-EDTA），提高溶液中鐵的穩定性與可利用性。\n\n選項解析：（A）錯誤，不是此處螯合劑；（B）錯誤，屬氣態植物激素；（C）錯誤，屬凝膠物質；（D）正確，Na[原檔缺字]EDTA 可與鐵離子形成螯合物（Fe-EDTA），提高溶液中鐵的穩定性與可利用性",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 11,
+          "question": "48",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：題幹FeSO與D選項Na…EDTA中的下標字元空白，解析亦同。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-049",
+      "number": "0049",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "配製螯合鐵母液的程序何者最符合教材？",
+      "options": [
+        "(A) FeSO[原檔缺字] 與 Na[原檔缺字]EDTA 分別溶解後再混合",
+        "(B) 直接將所有乾粉置於培養瓶不加水",
+        "(C) 先加入高濃度強鹼使鐵沉澱",
+        "(D) 完全不需攪拌即可形成穩定溶液"
+      ],
+      "answer": "A",
+      "explanation": "教材主張將兩者先各自溶解，再混合形成螯合鐵，減少局部沉澱。\n\n選項解析：（A）正確，教材主張將兩者先各自溶解，再混合形成螯合鐵，減少局部沉澱；（B）錯誤，不利均勻螯合；（C）錯誤，形成沉澱與配製目的相反；（D）錯誤，教材特別列混合及攪拌步驟",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 11,
+          "question": "49",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：A選項FeSO與Na…EDTA中的下標字元空白。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-050",
+      "number": "0050",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "教材建議大量與微量元素母液通常儲存在何種溫度？",
+      "options": [
+        "(A) 37°C",
+        "(B) 4°C",
+        "(C) 60°C",
+        "(D) [原檔缺字]80°C"
+      ],
+      "answer": "B",
+      "explanation": "教材寫明母液（stock solutions）配製後置於 4°C 冰箱保存；實際保存仍應依配方與實驗室規範。\n\n選項解析：（A）錯誤，不是一般母液冷藏溫度；（B）正確，教材寫明母液（stock solutions）配製後置於 4°C 冰箱保存；實際保存仍應依配方與實驗室規範；（C）錯誤，高溫易使部分成分劣化；（D）錯誤，非教材所述一般溫度",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 11,
+          "question": "50",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：D選項80°C前有一個原字元空白；保留缺字位置，不推定正負號。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-051",
+      "number": "0051",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "下列何者最符合植物激素（Plant hormone）的定義？",
+      "options": [
+        "(A) 必為人工合成的殺菌劑",
+        "(B) 只能促進生長、不能抑制",
+        "(C) 植物體內合成且低濃度即可調控生長發育的物質",
+        "(D) 只能用於培養基凝固"
+      ],
+      "answer": "C",
+      "explanation": "植物激素由植物自身合成，通常在微量下影響細胞分裂、伸長與分化等生長發育。\n\n選項解析：（A）錯誤，植物激素可為內源物質；（B）錯誤，可以促進也能抑制；（C）正確，植物激素由植物自身合成，通常在微量下影響細胞分裂、伸長與分化等生長發育；（D）錯誤，與凝膠作用不同",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 11,
+          "question": "51",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-052",
+      "number": "0052",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "下列何者為教材指出組織培養中最主要的兩類生長調節物質？",
+      "options": [
+        "(A) 乙烯與離酸",
+        "(B) 赤黴素與乙烯",
+        "(C) 脯胺酸與蔗糖",
+        "(D) 生長素（Auxin）與細胞分裂素（Cytokinin）"
+      ],
+      "answer": "D",
+      "explanation": "教材指出 Auxins 與 Cytokinins 為組織培養最主要兩類調節物質，GA[原檔缺字]、ABA、乙烯等只在部分條件使用。\n\n選項解析：（A）錯誤，並非教材所述兩大主軸；（B）錯誤，並非教材所述兩大主軸；（C）錯誤，兩者不屬這兩類植物激素；（D）正確，教材指出 Auxins 與 Cytokinins 為組織培養最主要兩類調節物質，GA[原檔缺字]、ABA、乙烯等只在部分條件使用",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 11,
+          "question": "52",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：兩處解析中的GA後下標字元空白。以[原檔缺字]標示，未猜補。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-053",
+      "number": "0053",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "下列何者為植物本身可合成、且易受氧化酵素分解的生長素？",
+      "options": [
+        "(A) IAA",
+        "(B) NAA",
+        "(C) 2,4-D",
+        "(D) IBA 必須人工合成"
+      ],
+      "answer": "A",
+      "explanation": "教材指出 IAA 是內源性生長素，可被 IAA oxidase 或 peroxidase 分解，因此穩定性不同於常見合成生長素。\n\n選項解析：（A）正確，教材指出 IAA 是內源性生長素，可被 IAA oxidase 或 peroxidase 分解，因此穩定性不同於常見合成生長素；（B）錯誤，NAA 主要作外源合成生長素；（C）錯誤，2,4-D 為人工合成生長素；（D）錯誤，題目詢問可由植物自身合成且易受酵素分解的 IAA",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 12,
+          "question": "53",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-054",
+      "number": "0054",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "依教材，高濃度生長素可誘導培殖體形成何種組織？",
+      "options": [
+        "(A) 成熟木材",
+        "(B) 癒傷組織（Callus）",
+        "(C) 乾燥種子",
+        "(D) 花粉外壁"
+      ],
+      "answer": "B",
+      "explanation": "高濃度 auxin 可促進去分化及癒傷組織形成，但組織反應仍受其他激素與材料影響。\n\n選項解析：（A）錯誤，不是典型直接誘導結果；（B）正確，高濃度 auxin 可促進去分化及癒傷組織形成，但組織反應仍受其他激素與材料影響；（C）錯誤，不是組織培養去分化產物；（D）錯誤，不是此處生長素作用",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 12,
+          "question": "54",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-055",
+      "number": "0055",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "若 a/c 代表 Auxin／Cytokinin 比值，教材中 a/c＜1 較容易促進哪種分化？",
+      "options": [
+        "(A) 不定根形成",
+        "(B) 維持無變化成熟細胞",
+        "(C) 芽體形成",
+        "(D) 細胞壁木栓化"
+      ],
+      "answer": "C",
+      "explanation": "a/c＜1 表示 CK 相對較高，教材明列有利癒傷組織分化成芽體。\n\n選項解析：（A）錯誤，根分化偏向 Auxin 相對較高；（B）錯誤，教材指出可影響形態發生；（C）正確，a/c＜1 表示 CK 相對較高，教材明列有利癒傷組織分化成芽體；（D）錯誤，與主要比值效應不符",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 12,
+          "question": "55",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-056",
+      "number": "0056",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "依教材，a/c＞1 時較常有利於？",
+      "options": [
+        "(A) 只有芽分化",
+        "(B) 芽體完全死亡",
+        "(C) 永遠維持不分化",
+        "(D) 癒傷組織形成或根分化"
+      ],
+      "answer": "D",
+      "explanation": "Auxin 相對多於 CK 時，有利誘導癒傷組織或偏向根的分化。\n\n選項解析：（A）錯誤，芽通常偏向 CK 相對較高；（B）錯誤，不能因此斷定死亡；（C）錯誤，並非唯一結果；（D）正確，Auxin 相對多於 CK 時，有利誘導癒傷組織或偏向根的分化",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 12,
+          "question": "56",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-057",
+      "number": "0057",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "組織培養添加蔗糖的主要用途為何？",
+      "options": [
+        "(A) 供碳源並調節培養基滲透壓",
+        "(B) 作為專一的生長素受體阻斷劑",
+        "(C) 取代所有無機鹽類",
+        "(D) 直接消除所有污染"
+      ],
+      "answer": "A",
+      "explanation": "教材指出蔗糖提供碳源與能量，也影響培養環境的滲透壓。\n\n選項解析：（A）正確，教材指出蔗糖提供碳源與能量，也影響培養環境的滲透壓；（B）錯誤，糖不是專一生長素受體抑制劑；（C）錯誤，不能取代無機營養；（D）錯誤，不能替代滅菌",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 12,
+          "question": "57",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-058",
+      "number": "0058",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "教材列蔗糖常用濃度約為？",
+      "options": [
+        "(A) 0.001–0.006%",
+        "(B) 1–6%",
+        "(C) 20–40%",
+        "(D) 80–100%"
+      ],
+      "answer": "B",
+      "explanation": "教材明列蔗糖濃度 1–6%，過高濃度可能因滲透壓等因素抑制生長。\n\n選項解析：（A）錯誤，低於教材濃度；（B）正確，教材明列蔗糖濃度 1–6%，過高濃度可能因滲透壓等因素抑制生長；（C）錯誤，高於教材濃度；（D）錯誤，遠高於可正常培養範圍",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 13,
+          "question": "58",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-059",
+      "number": "0059",
+      "section": "癒傷組織形成",
+      "topic": "癒傷組織形成",
+      "question": "典型癒傷組織形成三階段的順序為？",
+      "options": [
+        "(A) 分化期→起動期→分裂期",
+        "(B) 分裂期→分化期→起動期",
+        "(C) 誘導／起動期→分裂期→分化期",
+        "(D) 成熟期→休眠期→萌芽期"
+      ],
+      "answer": "C",
+      "explanation": "教材從起動期的代謝活化，經分裂期細胞團增殖，至分化期產生特定組織或器官。\n\n選項解析：（A）錯誤，次序不合教材；（B）錯誤，次序不合教材；（C）正確，教材從起動期的代謝活化，經分裂期細胞團增殖，至分化期產生特定組織或器官；（D）錯誤，不是癒傷組織形成三期",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 13,
+          "question": "59",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-060",
+      "number": "0060",
+      "section": "癒傷組織形成",
+      "topic": "癒傷組織形成",
+      "question": "癒傷組織起動期的典型細胞變化為何？",
+      "options": [
+        "(A) 大量成熟導管立即形成",
+        "(B) 完全停止 RNA 合成",
+        "(C) 已生成大量完整幼苗",
+        "(D) 細胞代謝活化、RNA 與蛋白質合成增加"
+      ],
+      "answer": "D",
+      "explanation": "起動期以細胞由靜止準備重新進入細胞週期為主，核酸及蛋白質合成增強。\n\n選項解析：（A）錯誤，器官分化多在後續階段；（B）錯誤，與教材內容相反；（C）錯誤，不是早期普遍現象；（D）正確，起動期以細胞由靜止準備重新進入細胞週期為主，核酸及蛋白質合成增強",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 13,
+          "question": "60",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-061",
+      "number": "0061",
+      "section": "癒傷組織形成",
+      "topic": "癒傷組織形成",
+      "question": "依教材，癒傷組織分裂期的典型特徵是？",
+      "options": [
+        "(A) 細胞快速無序分裂，形成無組織結構的細胞團",
+        "(B) 所有細胞立即停止有絲分裂",
+        "(C) 每個細胞立即形成花器官",
+        "(D) 細胞壁一律完全木栓化"
+      ],
+      "answer": "A",
+      "explanation": "分裂期細胞重新快速增殖，常可見小型、細胞質較濃稠的細胞形成鬆散或緊密的 callus。\n\n選項解析：（A）正確，分裂期細胞重新快速增殖，常可見小型、細胞質較濃稠的細胞形成鬆散或緊密的 callus；（B）錯誤，分裂期恰為旺盛細胞分裂；（C）錯誤，器官分化不是必然；（D）錯誤，不是典型必要現象",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 13,
+          "question": "61",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-062",
+      "number": "0062",
+      "section": "癒傷組織形成",
+      "topic": "癒傷組織形成",
+      "question": "教材中 Auxin 與 CK 對分裂期細胞週期的分工作用何者正確？",
+      "options": [
+        "(A) Auxin 只管蒸散，CK 只管吸光",
+        "(B) Auxin 與 DNA 複製相關，CK 與核及細胞質分裂相關",
+        "(C) Auxin 完全阻止 S 期",
+        "(D) CK 使細胞不再進入 M 期"
+      ],
+      "answer": "B",
+      "explanation": "教材以 Auxin 驅動 DNA 複製（S 期）、CK 促進核分裂與胞質分裂（M 期）說明協同作用。\n\n選項解析：（A）錯誤，不是教材此處機制；（B）正確，教材以 Auxin 驅動 DNA 複製（S 期）、CK 促進核分裂與胞質分裂（M 期）說明協同作用；（C）錯誤，與教材相反；（D）錯誤，與教材相反",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 13,
+          "question": "62",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-063",
+      "number": "0063",
+      "section": "癒傷組織形成",
+      "topic": "癒傷組織形成",
+      "question": "癒傷組織分化期可能發生何種現象？",
+      "options": [
+        "(A) 所有細胞只會保持均一未分化",
+        "(B) 細胞核永久消失",
+        "(C) 形成維管束要素、不定芽或不定根及體細胞胚",
+        "(D) 只會形成一層洋菜"
+      ],
+      "answer": "C",
+      "explanation": "分化期部分細胞走向組織分化，再藉器官發生或體細胞胚胎發生形成新的器官或胚體。\n\n選項解析：（A）錯誤，分化期已出現功能差異；（B）錯誤，細胞核不會普遍消失；（C）正確，分化期部分細胞走向組織分化，再藉器官發生或體細胞胚胎發生形成新的器官或胚體；（D）錯誤，洋菜屬培養基而非組織產物",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 14,
+          "question": "63",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-064",
+      "number": "0064",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "教材指出弱光環境來源的植株，其外植體相較強光生長來源者可能？",
+      "options": [
+        "(A) 一定不能培養",
+        "(B) 必然形成種子",
+        "(C) 只會產生根",
+        "(D) 較容易被誘導進入分裂"
+      ],
+      "answer": "D",
+      "explanation": "教材指出弱光生長的植株，其外植體相對易於誘導分裂；這是材料生理狀態影響誘導反應的例子。\n\n選項解析：（A）錯誤，與教材相反；（B）錯誤，不保證形成種子；（C）錯誤，不侷限為根；（D）正確，教材指出弱光生長的植株，其外植體相對易於誘導分裂；這是材料生理狀態影響誘導反應的例子",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 14,
+          "question": "64",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-065",
+      "number": "0065",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "關於器官發生（Organogenesis）與體細胞胚胎發生的敘述，何者正確？",
+      "options": [
+        "(A) 器官發生可形成不定芽或不定根",
+        "(B) 兩者均必定先形成受精卵",
+        "(C) 體細胞胚只能由花粉形成",
+        "(D) 器官發生永遠不能產生芽"
+      ],
+      "answer": "A",
+      "explanation": "器官發生由細胞或組織分化成芽與根；體細胞胚則以非合子細胞建立胚樣發育結構。\n\n選項解析：（A）正確，器官發生由細胞或組織分化成芽與根；體細胞胚則以非合子細胞建立胚樣發育結構；（B）錯誤，兩者可由體細胞開始；（C）錯誤，體細胞胚來源不是只有花粉；（D）錯誤，不定芽即器官發生常見結果",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 14,
+          "question": "65",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-066",
+      "number": "0066",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "體細胞胚與不定芽最重要的發育極性差異是？",
+      "options": [
+        "(A) 兩者都只有單極",
+        "(B) 體細胞胚具有雙極性，而器官發生常為單極性",
+        "(C) 體細胞胚只能形成根",
+        "(D) 器官發生必定同時形成胚根與胚芽"
+      ],
+      "answer": "B",
+      "explanation": "教材比較表以體細胞胚兼具 SAM 與 RAM 的雙極性，器官發生先形成芽或根的單極性作區別。\n\n選項解析：（A）錯誤，雙極性是體胚特徵；（B）正確，教材比較表以體細胞胚兼具 SAM 與 RAM 的雙極性，器官發生先形成芽或根的單極性作區別；（C）錯誤，體胚通常具胚根及胚芽極性；（D）錯誤，器官發生不一定同時具兩極",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 14,
+          "question": "66",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-067",
+      "number": "0067",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "依教材，體細胞胚與母體的維管束關係為？",
+      "options": [
+        "(A) 通常以木質部直接與母體相連",
+        "(B) 只能由母體傷口增生",
+        "(C) 體細胞胚通常沒有與母體相連的維管束",
+        "(D) 兩者皆須經嫁接才能生長"
+      ],
+      "answer": "C",
+      "explanation": "教材表列體細胞胚為相對獨立的雙極性胚體，與母體無維管束連接；不定器官則常有連接。\n\n選項解析：（A）錯誤，此較符合部分不定器官形成；（B）錯誤，體胚不限定傷口增生；（C）正確，教材表列體細胞胚為相對獨立的雙極性胚體，與母體無維管束連接；不定器官則常有連接；（D）錯誤，不需要先嫁接",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 14,
+          "question": "67",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-068",
+      "number": "0068",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "依教材，誘導體細胞胚通常採用何種生長調節策略？",
+      "options": [
+        "(A) 始終維持最高濃度 CK",
+        "(B) 從不使用植物生長素",
+        "(C) 只有低溫不需要激素",
+        "(D) 早期以 2,4-D 誘導，後期降低或移除 Auxin"
+      ],
+      "answer": "D",
+      "explanation": "教材比較表列體胚早期可採較高濃度 2,4-D 脈衝處理，後期轉到低或無生長素條件促進胚發育。\n\n選項解析：（A）錯誤，不是教材體胚誘導模式；（B）錯誤，早期常用 2,4-D；（C）錯誤，材料分化還取決於激素與其他因子；（D）正確，教材比較表列體胚早期可採較高濃度 2,4-D 脈衝處理，後期轉到低或無生長素條件促進胚發育",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 15,
+          "question": "68",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-069",
+      "number": "0069",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "下列何組分子標記在教材中較對應體細胞胚胎發生？",
+      "options": [
+        "(A) SERK、BBM、LEC1／2",
+        "(B) WUS（芽）、WOX5（根）",
+        "(C) Rubisco 與葉綠素",
+        "(D) Amylase 與 Lipase"
+      ],
+      "answer": "A",
+      "explanation": "教材體胚欄列 SERK、BBM、LEC1/2；WUS 與 WOX5 則分別與不定芽、根的器官發生相連。\n\n選項解析：（A）正確，教材體胚欄列 SERK、BBM、LEC1/2；WUS 與 WOX5 則分別與不定芽、根的器官發生相連；（B）錯誤，這組屬器官發生標記；（C）錯誤，是光合作用相關名稱，不是表列體胚標記；（D）錯誤，不是教材表列發育標記",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 15,
+          "question": "69",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-070",
+      "number": "0070",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "教材介紹延胡索體細胞胚繁殖流程，後段重要步驟包含？",
+      "options": [
+        "(A) 取消所有馴化後直接移到荒地",
+        "(B) 微塊莖形成與馴化移栽",
+        "(C) 只在黑暗中形成花粉",
+        "(D) 直接由乾粉變為成熟植株"
+      ],
+      "answer": "B",
+      "explanation": "教材以延胡索為例，呈現體胚、二次胚、小塊莖／微球莖形成及馴化移栽等連續階段。\n\n選項解析：（A）錯誤，移栽需要環境馴化；（B）正確，教材以延胡索為例，呈現體胚、二次胚、小塊莖／微球莖形成及馴化移栽等連續階段；（C）錯誤，不是這項流程主軸；（D）錯誤，不符合實際發育與教材流程",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 15,
+          "question": "70",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-071",
+      "number": "0071",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "器官培養相對經大量癒傷組織再分化的一項重要優勢是？",
+      "options": [
+        "(A) 必然具有較高體細胞變異",
+        "(B) 只能在一年內進行一次",
+        "(C) 減少經過長期無序細胞增殖所伴隨的遺傳變異風險",
+        "(D) 再生小苗必須與母本基因型不同"
+      ],
+      "answer": "C",
+      "explanation": "教材強調直接器官發生繞過長期 callus 階段，較能維持母本基因型一致性。\n\n選項解析：（A）錯誤，大量 callus 途徑通常風險較高；（B）錯誤，教材強調可短期大量繁殖；（C）正確，教材強調直接器官發生繞過長期 callus 階段，較能維持母本基因型一致性；（D）錯誤，與維持遺傳穩定目的相反",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 15,
+          "question": "71",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-072",
+      "number": "0072",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "教材將利用莖節或腋芽大量繁殖的主要機制列為？",
+      "options": [
+        "(A) 細胞平板培養",
+        "(B) 原生質體融合",
+        "(C) 成熟種子自然散播",
+        "(D) 頂芽／腋芽增殖（Shoot-tip/Axillary budding）"
+      ],
+      "answer": "D",
+      "explanation": "節段與腋芽含既有分生組織，常藉芽增殖獲得同質繁殖苗。\n\n選項解析：（A）錯誤，不等於莖節芽增殖；（B）錯誤，不等於莖節芽增殖；（C）錯誤，不是離體大量繁殖技術；（D）正確，節段與腋芽含既有分生組織，常藉芽增殖獲得同質繁殖苗",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 15,
+          "question": "72",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-073",
+      "number": "0073",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "直接器官發生與間接器官發生的最主要區別是？",
+      "options": [
+        "(A) 是否先經癒傷組織階段",
+        "(B) 是否使用任何培養瓶",
+        "(C) 植株能否進行光合作用",
+        "(D) 是否使用蒸餾水"
+      ],
+      "answer": "A",
+      "explanation": "直接器官發生由外植體細胞直接分化出芽／根；間接器官發生需先形成 callus 再分化。\n\n選項解析：（A）正確，直接器官發生由外植體細胞直接分化出芽／根；間接器官發生需先形成 callus 再分化；（B）錯誤，兩者皆可使用培養瓶；（C）錯誤，兩者皆可能形成可光合植株；（D）錯誤，兩者均需要合宜水分",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 16,
+          "question": "73",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-074",
+      "number": "0074",
+      "section": "體細胞胚與器官發生",
+      "topic": "體細胞胚與器官發生",
+      "question": "依教材比較，間接器官發生相對直接器官發生的潛在缺點為何？",
+      "options": [
+        "(A) 必然無法形成根",
+        "(B) 繼代時間較長，且體細胞變異風險較高",
+        "(C) 完全不可能大量繁殖",
+        "(D) 只能使用成熟花粉"
+      ],
+      "answer": "B",
+      "explanation": "間接途徑需經 callus 增殖及再分化，增加步驟與時間，也可能提高 somaclonal variation 的風險。\n\n選項解析：（A）錯誤，仍可產生根；（B）正確，間接途徑需經 callus 增殖及再分化，增加步驟與時間，也可能提高 somaclonal variation 的風險；（C）錯誤，可用於再生與大量繁殖；（D）錯誤，外植體並不限花粉",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 16,
+          "question": "74",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-075",
+      "number": "0075",
+      "section": "次級代謝與毛狀根",
+      "topic": "次級代謝與毛狀根",
+      "question": "依教材，細胞培養使用前驅物或誘引劑（Elicitor）的主要目的是？",
+      "options": [
+        "(A) 完全取代所有微量元素",
+        "(B) 確保培養基沒有細胞",
+        "(C) 刺激或提高特定次級代謝物形成",
+        "(D) 使所有細胞不再分裂"
+      ],
+      "answer": "C",
+      "explanation": "教材將前驅物與誘引劑列為依需要添加、與次級代謝物生產相關的組分。\n\n選項解析：（A）錯誤，不會代替基本無機養分；（B）錯誤，代謝物生產仍需活細胞；（C）正確，教材將前驅物與誘引劑列為依需要添加、與次級代謝物生產相關的組分；（D）錯誤，不等同於全面抑制細胞分裂",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 16,
+          "question": "75",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-076",
+      "number": "0076",
+      "section": "培養基與營養",
+      "topic": "培養基與營養",
+      "question": "以 MS 培養基為基礎的無機營養，應同時考量下列何者？",
+      "options": [
+        "(A) 只需一種元素",
+        "(B) 只需鉀離子",
+        "(C) 不需鐵鹽",
+        "(D) 大量元素、微量元素與鐵鹽"
+      ],
+      "answer": "D",
+      "explanation": "教材將無機營養分成大量元素、微量元素及鐵鹽，並說明鐵需重視螯合與溶解性。\n\n選項解析：（A）錯誤，植物需要多種元素；（B）錯誤，鉀不能取代其他營養；（C）錯誤，鐵為植物生長必要元素；（D）正確，教材將無機營養分成大量元素、微量元素及鐵鹽，並說明鐵需重視螯合與溶解性",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 16,
+          "question": "76",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-077",
+      "number": "0077",
+      "section": "植物激素與生長調節",
+      "topic": "植物激素與生長調節",
+      "question": "器官發生時若提高 CK／Auxin 的比例，較常促進哪一結果？",
+      "options": [
+        "(A) 芽的分化",
+        "(B) 根的分化",
+        "(C) 所有細胞必定進入休眠",
+        "(D) 所有體細胞必定形成合子胚"
+      ],
+      "answer": "A",
+      "explanation": "Skoog 與 Miller 比例概念：高 CK／低 Auxin 有利芽分化；相對高 Auxin 有利根形成。\n\n選項解析：（A）正確，Skoog 與 Miller 比例概念：高 CK／低 Auxin 有利芽分化；相對高 Auxin 有利根形成；（B）錯誤，根分化偏向較高 Auxin；（C）錯誤，不等於休眠；（D）錯誤，合子胚來源於受精過程",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 16,
+          "question": "77",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "plant-tissue-culture-078",
+      "number": "0078",
+      "section": "培養環境、生長與無菌操作",
+      "topic": "培養環境、生長與無菌操作",
+      "question": "對細胞培養進行無菌操作時，教材所列基本程序最符合下列何者？",
+      "options": [
+        "(A) 只將外植體放在自來水中",
+        "(B) 外植體消毒、培養基滅菌、於受控無菌環境接種培養",
+        "(C) 所有容器打開曝露於室內空氣",
+        "(D) 培養基不需供應營養"
+      ],
+      "answer": "B",
+      "explanation": "教材流程圖指出外植體需無菌處理、培養基須滅菌，並在控制環境中培養。\n\n選項解析：（A）錯誤，不足以排除微生物；（B）正確，教材流程圖指出外植體需無菌處理、培養基須滅菌，並在控制環境中培養；（C）錯誤，易遭污染；（D）錯誤，植物離體培養需要養分",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "植物組織培養期中_單選題與逐項詳解_閃卡版.pdf",
+          "page": 17,
+          "question": "78",
+          "url": "",
+          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。"
+        }
+      ],
+      "verificationUrls": []
+    }
+  ]
+}

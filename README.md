@@ -1,10 +1,10 @@
-# 每日回想｜藥理學與生藥學
+# 每日回想｜藥理學、生藥學與植物組織培養
 
-[藥理學題庫](https://yieyu049-commits.github.io/pharma-recall/) · [生藥學題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacognosy)
+[藥理學題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacology) · [生藥學題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacognosy) · [植物組織培養題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=plant_tissue_culture)
 
 手機直接開啟，不需登入 GPT 或 GitHub，每天不限題數。可依到期時間複習，也可按章節、搜尋、收藏或曾忘記的題目自由刷題。
 
-兩科的題庫檔案、作答紀錄、收藏、錯題與複習排程分開儲存。原有藥理學卡號與本機進度保留。
+三科的題庫檔案、作答紀錄、收藏、錯題與複習排程分開儲存。既有藥理學與生藥學卡號、進度保留。植物組織培養收錄 78 題、8 個主題，其中 7 題保留來源疑義並標示待核對。
 
 分享網站網址即可與朋友共用題庫。每個人的進度只存在各自裝置的瀏覽器，不會傳到 GitHub 或共同伺服器。分享連結不含個人進度；朋友首次開啟會從自己的新進度開始。同一裝置的同一瀏覽器使用同一份本機進度。
 
