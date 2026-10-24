@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#214d3c"><meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="description" content="你的個人藥理學閃卡。每日回想，依記憶表現安排下一次複習。">
+  <title>藥理・每日回想</title>
+  <link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icon-192.png"><link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="storage-warning" class="notice warning" hidden role="alert"></div>
+  <div id="app"><main class="loading"><div class="brandmark">回</div><h1>藥理・每日回想</h1><p>正在準備你的題庫…</p></main></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="image-dialog"><div class="dialog-head"><strong>原題圖片</strong><button data-zoom="-" aria-label="縮小圖片">−</button><button data-zoom="+" aria-label="放大圖片">＋</button><button id="close-image" aria-label="關閉圖片">✕</button></div><p class="muted">點＋放大，左右滑動查看；也可使用手機雙指縮放。</p><div class="zoom-area"><img id="zoom-image" alt="完整原題圖片"></div></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <script type="module" src="./app.mjs"></script>
+</body></html>
