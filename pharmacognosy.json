@@ -1,0 +1,5650 @@
+{
+  "version": "2026-10-24-pharmacognosy-v1",
+  "total": 180,
+  "topics": [
+    {
+      "name": "生藥學總論與命名",
+      "count": 13
+    },
+    {
+      "name": "天然物生合成途徑",
+      "count": 11
+    },
+    {
+      "name": "天然物成分與分類",
+      "count": 27
+    },
+    {
+      "name": "薑黃屬生藥",
+      "count": 13
+    },
+    {
+      "name": "大蒜與蔥屬生藥",
+      "count": 10
+    },
+    {
+      "name": "海蔥與強心苷",
+      "count": 5
+    },
+    {
+      "name": "秋水仙與普達非林",
+      "count": 11
+    },
+    {
+      "name": "東莨菪與顛茄",
+      "count": 8
+    },
+    {
+      "name": "北美黃連與黃連",
+      "count": 7
+    },
+    {
+      "name": "皂苷生藥",
+      "count": 28
+    },
+    {
+      "name": "附子與炮製",
+      "count": 5
+    },
+    {
+      "name": "龍膽類生藥",
+      "count": 4
+    },
+    {
+      "name": "印度蛇木",
+      "count": 4
+    },
+    {
+      "name": "其他根莖與全草生藥",
+      "count": 29
+    },
+    {
+      "name": "品質鑑定與檢驗",
+      "count": 5
+    }
+  ],
+  "subject": "pharmacognosy",
+  "cards": [
+    {
+      "id": "pharmacognosy-001",
+      "number": "0001",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "下列何者最符合生藥學（Pharmacognosy）的研究範圍？",
+      "options": [
+        "(A) 只研究人工化學合成的新藥",
+        "(B) 天然來源藥物的來源、性狀、成分、品質及應用",
+        "(C) 只研究中藥方劑配伍",
+        "(D) 只研究動物病理切片"
+      ],
+      "answer": "B",
+      "explanation": "教材將生藥學定位為研究天然來源藥物的科學，涵蓋基原、鑑定、成分與藥理等；其他三項均過度縮小或偏離研究範疇。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 1,
+          "question": "1",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-002",
+      "number": "0002",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "教材所述世界上第一部由官方頒布的藥典為何？",
+      "options": [
+        "(A) 《新修本草》",
+        "(B) 《本草綱目》",
+        "(C) 《神農本草經》",
+        "(D) 《本草綱目拾遺》"
+      ],
+      "answer": "A",
+      "explanation": "唐代《新修本草》被教材列為世界上第一部藥典；《本草綱目》是李時珍的本草巨著，《神農本草經》為更早期本草典籍。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 1,
+          "question": "2",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-003",
+      "number": "0003",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "李時珍所編纂的重要本草著作為何？",
+      "options": [
+        "(A) 《新修本草》",
+        "(B) 《本草經集注》",
+        "(C) 《神農本草經》",
+        "(D) 《本草綱目》"
+      ],
+      "answer": "D",
+      "explanation": "《本草綱目》為李時珍的重要代表作；其餘為不同時代及作者的本草著作，不應互相混淆。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 1,
+          "question": "3",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-004",
+      "number": "0004",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "藥材學名中表示「基原」的資訊，主要用以識別何者？",
+      "options": [
+        "(A) 僅表示商業包裝規格",
+        "(B) 僅表示服用劑量",
+        "(C) 來源生物的種類與來源",
+        "(D) 僅表示藥理作用強度"
+      ],
+      "answer": "C",
+      "explanation": "基原強調藥材的來源植物、動物或其他來源生物，是鑑定與品質管理的前提，與包裝、劑量及作用強度不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 1,
+          "question": "4",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-005",
+      "number": "0005",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "藥用部位拉丁文「Rhizoma」相當於何者？",
+      "options": [
+        "(A) 根",
+        "(B) 根莖",
+        "(C) 樹皮",
+        "(D) 葉"
+      ],
+      "answer": "B",
+      "explanation": "Rhizoma 表示根莖；Radix 為根、Cortex 為皮、Folium 為葉。這些詞用於辨識生藥名中的藥用部位。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 1,
+          "question": "5",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-006",
+      "number": "0006",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "「Radix」代表的藥用部位為何？",
+      "options": [
+        "(A) 根",
+        "(B) 根莖",
+        "(C) 花",
+        "(D) 果實"
+      ],
+      "answer": "A",
+      "explanation": "Radix 為根；Rhizoma 表示根莖，Flos 表示花，Fructus 表示果實。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "6",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-007",
+      "number": "0007",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "「Cortex」所指的藥用部位為何？",
+      "options": [
+        "(A) 種子",
+        "(B) 葉",
+        "(C) 樹脂",
+        "(D) 皮"
+      ],
+      "answer": "D",
+      "explanation": "Cortex 為皮類；Semen 為種子、Folium 為葉、Resina 為樹脂。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "7",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-008",
+      "number": "0008",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "何組拉丁文與藥用部位配對正確？",
+      "options": [
+        "(A) Flos－果實",
+        "(B) Fructus－花",
+        "(C) Semen－種子",
+        "(D) Folium－莖"
+      ],
+      "answer": "C",
+      "explanation": "Semen 為種子；Flos 為花、Fructus 為果實、Folium 為葉。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "8",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-009",
+      "number": "0009",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "「Lignum」於生藥藥用部位表示何者？",
+      "options": [
+        "(A) 全草",
+        "(B) 木材",
+        "(C) 花粉",
+        "(D) 分泌物"
+      ],
+      "answer": "B",
+      "explanation": "Lignum 表示木材；Herba 表示全草、Pollen 表示花粉，分泌物另依性質命名。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "9",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-010",
+      "number": "0010",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "教材對生藥學研究材料的敘述，何者最恰當？",
+      "options": [
+        "(A) 天然來源且未加工或僅經簡單加工的藥物材料",
+        "(B) 必須是人工合成且純化的單一化合物",
+        "(C) 一律須經高溫炭化",
+        "(D) 僅限植物的種子"
+      ],
+      "answer": "A",
+      "explanation": "教材強調來源與加工程度，研究對象不限種子，也不要求完全純化或炭化。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "10",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-011",
+      "number": "0011",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "下列何種成分類別與乙酸－丙二酸途徑（Acetate–Malonate pathway）關聯密切？",
+      "options": [
+        "(A) 典型類固醇骨架",
+        "(B) 多數單萜類",
+        "(C) 由胺基酸衍生的生物鹼",
+        "(D) 蒽醌類"
+      ],
+      "answer": "D",
+      "explanation": "教材將蒽醌及部分醌類、脂肪酸與此途徑相連；萜類和類固醇多涉及乙酸－甲羥戊酸途徑，生物鹼常涉及胺基酸途徑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 2,
+          "question": "11",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-012",
+      "number": "0012",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "下列何者主要歸於乙酸－甲羥戊酸途徑（Acetate–Mevalonate pathway）的類別？",
+      "options": [
+        "(A) 多數苯丙素類",
+        "(B) 由芳香族胺基酸衍生的生物鹼",
+        "(C) 萜類",
+        "(D) 蒽醌類"
+      ],
+      "answer": "C",
+      "explanation": "教材以萜類與固醇類作為乙酸－甲羥戊酸途徑的主要產物；其他選項關聯於其他生合成途徑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 3,
+          "question": "12",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-013",
+      "number": "0013",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "莽草酸途徑（Shikimic acid pathway）常與下列何者形成有關？",
+      "options": [
+        "(A) 一般脂肪酸",
+        "(B) 芳香族化合物",
+        "(C) 典型三萜骨架",
+        "(D) 無機鹽類"
+      ],
+      "answer": "B",
+      "explanation": "莽草酸途徑提供芳香族胺基酸與相關芳香族次級代謝物的前驅物，非脂肪酸或無機鹽的主要合成途徑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 3,
+          "question": "13",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-014",
+      "number": "0014",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "教材將生物鹼（Alkaloids）主要列入哪一種生合成途徑？",
+      "options": [
+        "(A) 胺基酸途徑（Amino acid pathway）",
+        "(B) 單純的糖解作用",
+        "(C) 單純的乙酸－丙二酸途徑",
+        "(D) 礦物質沉澱反應"
+      ],
+      "answer": "A",
+      "explanation": "教材四大路徑將生物鹼與胺基酸途徑配對；實際單一生物鹼可能涉及多段生合成，題目依教材基本分類作答。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 3,
+          "question": "14",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-015",
+      "number": "0015",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "莽草酸（shikimic acid）在教材概念圖中較直接連結哪類前驅物？",
+      "options": [
+        "(A) 無機磷酸鹽",
+        "(B) 膽固醇",
+        "(C) 硫酸鈣",
+        "(D) 芳香族胺基酸"
+      ],
+      "answer": "D",
+      "explanation": "教材路徑圖由 shikimic acid 導向芳香族胺基酸及其衍生的酚類與芳香族天然物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 3,
+          "question": "15",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-016",
+      "number": "0016",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "Acetyl-CoA 經乙酸－甲羥戊酸相關步驟產生異戊二烯單元，主要用於何種成分類別？",
+      "options": [
+        "(A) 蛋白質胜肽鍵",
+        "(B) 單純無機鹽",
+        "(C) 萜類與相關異戊二烯衍生物",
+        "(D) 纖維素直接聚合"
+      ],
+      "answer": "C",
+      "explanation": "異戊二烯單元是萜類合成的基礎；蛋白質及纖維素的生合成採不同路徑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 3,
+          "question": "16",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-017",
+      "number": "0017",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "生物鹼（Alkaloids）的常見結構特性為何？",
+      "options": [
+        "(A) 一定完全不含氮",
+        "(B) 含氮且多具有鹼性",
+        "(C) 必然為無機金屬鹽",
+        "(D) 一律不具生物活性"
+      ],
+      "answer": "B",
+      "explanation": "教材指出生物鹼多為含氮有機化合物，常具有鹼性且具生理活性；是否強鹼仍視個別結構而定。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "17",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-018",
+      "number": "0018",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "生物鹼在植物中的分布，何者最符合教材？",
+      "options": [
+        "(A) 可分布於不同植物器官，含量依植物及部位而異",
+        "(B) 只能存在葉片",
+        "(C) 只能存在果皮",
+        "(D) 所有植物含量完全相同"
+      ],
+      "answer": "A",
+      "explanation": "不同生物鹼的分布、含量及儲存部位因物種和生理條件而不同，不能一概而論。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "18",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-019",
+      "number": "0019",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "「多醣（Polysaccharides）」與「苷類（Glycosides）」的主要區別為何？",
+      "options": [
+        "(A) 兩者都是純無機鹽",
+        "(B) 所有多醣皆由單一胺基酸構成",
+        "(C) 所有苷類都不含糖",
+        "(D) 多醣是多個糖單元聚合，苷類由糖部與非糖部等構成"
+      ],
+      "answer": "D",
+      "explanation": "多醣具有多糖單元鏈；苷類常含糖基與苷元（非糖部）。兩者在化學結構與水解性質上不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "19",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-020",
+      "number": "0020",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "苷類經水解後，通常可分離出哪兩部分？",
+      "options": [
+        "(A) 核酸與脂肪酸",
+        "(B) 無機金屬與硫酸根",
+        "(C) 糖基部分與苷元（aglycone）",
+        "(D) 蛋白質與磷脂"
+      ],
+      "answer": "C",
+      "explanation": "苷鍵水解可釋放糖基及苷元；其他選項並非苷類水解的一般定義。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "20",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-021",
+      "number": "0021",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "醌類化合物呈顏色的原因通常與何者有關？",
+      "options": [
+        "(A) 完全沒有雙鍵",
+        "(B) 分子內共軛系統",
+        "(C) 只含飽和烷鏈",
+        "(D) 不含任何發色團"
+      ],
+      "answer": "B",
+      "explanation": "醌類具有共軛結構，常可吸收可見光而呈色；其顏色並非來自純飽和鏈。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "21",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-022",
+      "number": "0022",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "大黃所含蒽醌類成分屬於何類次級代謝物？",
+      "options": [
+        "(A) 醌類及其衍生物",
+        "(B) 蛋白質類",
+        "(C) 無機鹽類",
+        "(D) 核酸類"
+      ],
+      "answer": "A",
+      "explanation": "蒽醌具有醌類的芳香共軛骨架，是生藥常見活性天然物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 4,
+          "question": "22",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-023",
+      "number": "0023",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "香豆素（Coumarins）通常具備何種性質，與教材敘述相符？",
+      "options": [
+        "(A) 完全為無機化合物",
+        "(B) 必定不溶於任何有機溶劑",
+        "(C) 不含氧原子",
+        "(D) 芳香且與內酯結構有關"
+      ],
+      "answer": "D",
+      "explanation": "香豆素具苯并吡喃酮（內酯）骨架，常呈芳香性，性質視取代基而異。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "23",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-024",
+      "number": "0024",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "木質素（Lignin）的生物學功能主要為何？",
+      "options": [
+        "(A) 形成動物紅血球",
+        "(B) 催化人體胰島素分泌",
+        "(C) 構成植物細胞壁並提供機械支持",
+        "(D) 作為植物唯一的光合色素"
+      ],
+      "answer": "C",
+      "explanation": "木質素是細胞壁的重要結構成分，與細胞壁硬度、支持和防護有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "24",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-025",
+      "number": "0025",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "黃酮類化合物（Flavonoids）的典型基本碳骨架為何？",
+      "options": [
+        "(A) C5–C5",
+        "(B) C6–C3–C6",
+        "(C) C2–C2",
+        "(D) C10–C10–C10"
+      ],
+      "answer": "B",
+      "explanation": "黃酮類通常具有兩個芳香環與三碳橋構成 C6–C3–C6 骨架，是重要辨識特徵。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "25",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-026",
+      "number": "0026",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "某些黃酮類化合物受紫外光照射會出現螢光或變色，主要與何者有關？",
+      "options": [
+        "(A) 共軛結構及取代基差異",
+        "(B) 完全缺乏電子躍遷",
+        "(C) 沒有芳香環",
+        "(D) 全部是蛋白質"
+      ],
+      "answer": "A",
+      "explanation": "黃酮的發色與螢光特性與共軛系統、羥基及其他取代基相關，教材特別標示這項性質。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "26",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-027",
+      "number": "0027",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "一個單萜（monoterpene）的典型碳數為多少？",
+      "options": [
+        "(A) 5 個碳",
+        "(B) 15 個碳",
+        "(C) 30 個碳",
+        "(D) 10 個碳"
+      ],
+      "answer": "D",
+      "explanation": "單萜由兩個 C5 異戊二烯單元構成，典型為 C10；C5 是半萜，C15 為倍半萜，C30 為三萜。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "27",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-028",
+      "number": "0028",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "倍半萜（sesquiterpene）的典型碳數為何？",
+      "options": [
+        "(A) 10 個碳",
+        "(B) 20 個碳",
+        "(C) 15 個碳",
+        "(D) 40 個碳"
+      ],
+      "answer": "C",
+      "explanation": "倍半萜相當於三個 C5 單元，典型 C15；單萜 C10、二萜 C20、四萜 C40。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 5,
+          "question": "28",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-029",
+      "number": "0029",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "三萜（triterpene）的典型碳數為何？",
+      "options": [
+        "(A) 10 個碳",
+        "(B) 30 個碳",
+        "(C) 15 個碳",
+        "(D) 20 個碳"
+      ],
+      "answer": "B",
+      "explanation": "三萜典型為六個異戊二烯單元組成的 C30 骨架；可與 C10、C15、C20 萜類區分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "29",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-030",
+      "number": "0030",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "揮發油（essential oil）的典型特徵為何？",
+      "options": [
+        "(A) 易揮發且常具有特徵香氣",
+        "(B) 全為水溶性無機鹽",
+        "(C) 不可能含萜類",
+        "(D) 都是高分子多醣"
+      ],
+      "answer": "A",
+      "explanation": "揮發油為具有香氣的揮發性混合物，常含單萜、倍半萜等；成分與水溶性不能一概而論。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "30",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-031",
+      "number": "0031",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "將揮發油滴於紙上，與固定油比較較典型的觀察為何？",
+      "options": [
+        "(A) 一定形成永久深色油斑",
+        "(B) 立即生成無機沉澱",
+        "(C) 產生大量結晶糖",
+        "(D) 揮發後通常不留持久油斑"
+      ],
+      "answer": "D",
+      "explanation": "揮發油揮散性較強；固定油通常留下持久油斑，教材將此列為辨識特徵。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "31",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-032",
+      "number": "0032",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "皂苷（Saponins）水溶液振搖後常見何種特徵？",
+      "options": [
+        "(A) 完全不可能起泡",
+        "(B) 立即形成金屬鏽斑",
+        "(C) 產生較持久泡沫",
+        "(D) 必然放出氫氣"
+      ],
+      "answer": "C",
+      "explanation": "皂苷具有界面活性，可降低表面張力而產生泡沫；是傳統常見的鑑別現象。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "32",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-033",
+      "number": "0033",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "皂苷具有界面活性，與其分子結構何種特徵有關？",
+      "options": [
+        "(A) 僅由單一無機離子構成",
+        "(B) 同時具有親水糖基與疏水苷元",
+        "(C) 不含任何親水基團",
+        "(D) 完全沒有非糖部"
+      ],
+      "answer": "B",
+      "explanation": "皂苷的糖基與苷元呈兩親性，使其可在水與疏水界面排列並起泡。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "33",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-034",
+      "number": "0034",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "有機酸在植物中常見的分布情況為何？",
+      "options": [
+        "(A) 可分布於果實及其他器官",
+        "(B) 只存在木質部",
+        "(C) 必須是固體金屬鹽",
+        "(D) 只存在動物細胞"
+      ],
+      "answer": "A",
+      "explanation": "教材指出有機酸廣泛分布於植物，常見於果實，也可存在其他部位。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 6,
+          "question": "34",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-035",
+      "number": "0035",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "樹脂（Resins）較典型的溶解度性質為何？",
+      "options": [
+        "(A) 必定可完全溶於冷水",
+        "(B) 只能溶於鹽酸",
+        "(C) 與所有溶劑都完全互溶",
+        "(D) 通常不溶於水，較易溶於部分有機溶劑"
+      ],
+      "answer": "D",
+      "explanation": "樹脂為複雜的有機混合物，通常水溶性較差，常可溶於醇或其他適合的有機溶劑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "35",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-036",
+      "number": "0036",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "植物色素中，葉綠素最主要與何種功能相關？",
+      "options": [
+        "(A) 形成動物抗體",
+        "(B) 構成礦物結晶",
+        "(C) 光合作用吸收光能",
+        "(D) 形成核糖體 RNA"
+      ],
+      "answer": "C",
+      "explanation": "葉綠素是植物光合作用的重要色素；其他選項與其主要功能不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "36",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-037",
+      "number": "0037",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "薑黃（Curcumae Longae Rhizoma）的常見藥用部位為何？",
+      "options": [
+        "(A) 種子",
+        "(B) 根莖",
+        "(C) 花粉",
+        "(D) 葉片"
+      ],
+      "answer": "B",
+      "explanation": "名稱中的 Rhizoma 表示根莖；需與鬱金等薑黃屬其他藥材使用的塊根部位區分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "37",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-038",
+      "number": "0038",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "鬱金（Curcumae Radix）的藥用部位通常為何？",
+      "options": [
+        "(A) 塊根",
+        "(B) 果實",
+        "(C) 樹皮",
+        "(D) 種子"
+      ],
+      "answer": "A",
+      "explanation": "Curcumae Radix 在此指薑黃屬植物的塊根；不是根莖類的薑黃。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "38",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-039",
+      "number": "0039",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "大蒜（Allii Sativi Bulbus）的藥用部位是何者？",
+      "options": [
+        "(A) 根皮",
+        "(B) 花粉",
+        "(C) 果實",
+        "(D) 鱗莖"
+      ],
+      "answer": "D",
+      "explanation": "生藥名 Bulbus 即鱗莖，大蒜為百合類群植物的鱗莖藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "39",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-040",
+      "number": "0040",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "大蒜蒜胺酸（Alliin）轉為大蒜素（Allicin）主要需要哪種酵素？",
+      "options": [
+        "(A) Amylase（澱粉酶）",
+        "(B) Pepsin（胃蛋白酶）",
+        "(C) Alliinase（蒜胺酸酶）",
+        "(D) Lipase（脂肪酶）"
+      ],
+      "answer": "C",
+      "explanation": "大蒜受切碎等組織破壞後，alliinase 可作用於 alliin，形成具刺激氣味的 allicin；其他酵素不是此反應的關鍵。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 7,
+          "question": "40",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-041",
+      "number": "0041",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "大蒜素（Allicin）與蒜胺酸（Alliin）最重要的差異為何？",
+      "options": [
+        "(A) Alliin 是無機鹽，Allicin 是蛋白質",
+        "(B) Allicin 可由 Alliin 在蒜胺酸酶作用下形成",
+        "(C) 二者必然完全相同",
+        "(D) Allicin 只能由光合作用直接形成"
+      ],
+      "answer": "B",
+      "explanation": "教材表格比較 alliin 與 allicin，強調前驅物－產物關係及加工破壞細胞後的酵素反應。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 8,
+          "question": "41",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-042",
+      "number": "0042",
+      "section": "海蔥與強心苷",
+      "topic": "海蔥與強心苷",
+      "question": "海蔥（Scillae Bulbus）的典型藥用部位為何？",
+      "options": [
+        "(A) 鱗莖",
+        "(B) 花",
+        "(C) 種子",
+        "(D) 木材"
+      ],
+      "answer": "A",
+      "explanation": "Bulbus 表示鱗莖；海蔥常以鱗莖入藥。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 8,
+          "question": "42",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-043",
+      "number": "0043",
+      "section": "海蔥與強心苷",
+      "topic": "海蔥與強心苷",
+      "question": "海蔥的主要強心苷骨架類型為何？",
+      "options": [
+        "(A) 典型黃酮 C6–C3–C6 型",
+        "(B) 三萜皂苷型",
+        "(C) 生物鹼吲哚型",
+        "(D) Bufadienolide 型"
+      ],
+      "answer": "D",
+      "explanation": "教材將海蔥的 scillaren A 等歸於 bufadienolide 型強心苷，與 cardenolide 類型需區分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 8,
+          "question": "43",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-044",
+      "number": "0044",
+      "section": "海蔥與強心苷",
+      "topic": "海蔥與強心苷",
+      "question": "海蔥強心苷類藥理作用的關鍵機轉為何？",
+      "options": [
+        "(A) 直接阻斷 DNA 聚合酶",
+        "(B) 活化單胺氧化酶",
+        "(C) 抑制 Na+/K+-ATPase",
+        "(D) 促進膽鹼酯酶分解"
+      ],
+      "answer": "C",
+      "explanation": "教材指出類似 digitalis 的強心作用主要涉及 Na+/K+-ATPase 抑制，進而影響心肌細胞鈣離子處理。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 8,
+          "question": "44",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-045",
+      "number": "0045",
+      "section": "海蔥與強心苷",
+      "topic": "海蔥與強心苷",
+      "question": "鈴蘭所含強心苷 Convallatoxin 屬於哪一骨架類型？",
+      "options": [
+        "(A) Bufadienolide 型",
+        "(B) Cardenolide 型",
+        "(C) 生物鹼型",
+        "(D) 黃酮型"
+      ],
+      "answer": "B",
+      "explanation": "鈴蘭的 convallatoxin 歸類為 cardenolide 型強心苷，與海蔥的 bufadienolide 作為對照重點。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 8,
+          "question": "45",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-046",
+      "number": "0046",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "秋水仙（Colchicum autumnale）的代表性活性成分為何？",
+      "options": [
+        "(A) Colchicine（秋水仙鹼）",
+        "(B) Berberine（小檗鹼）",
+        "(C) Allicin（大蒜素）",
+        "(D) Glycyrrhizin（甘草甜素）"
+      ],
+      "answer": "A",
+      "explanation": "秋水仙以 colchicine 為代表性成分；其餘分別較典型見於黃連、大蒜與甘草。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 9,
+          "question": "46",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-047",
+      "number": "0047",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "秋水仙鹼（Colchicine）抑制細胞分裂的主要機制為何？",
+      "options": [
+        "(A) 活化 Na+/K+-ATPase",
+        "(B) 直接提供 ATP",
+        "(C) 抑制胃酸分泌的 H2 受體",
+        "(D) 與微管蛋白結合並抑制微管聚合"
+      ],
+      "answer": "D",
+      "explanation": "教材指出秋水仙鹼干擾微管形成，使細胞分裂停滯；此機制也與其抗發炎用途相關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 9,
+          "question": "47",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-048",
+      "number": "0048",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "普達非林樹脂（Podophyllum resin）的主要原料取自植物何部位？",
+      "options": [
+        "(A) 花粉",
+        "(B) 種子胚乳",
+        "(C) 根莖與根",
+        "(D) 葉片角質層"
+      ],
+      "answer": "C",
+      "explanation": "教材描述從 Podophyllum 植物的根莖及根製備樹脂；不能將製劑名稱與單一部位拉丁字直接混淆。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 9,
+          "question": "48",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-049",
+      "number": "0049",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "Podophyllum 樹脂中的 Podophyllotoxin 主要呈現何種作用？",
+      "options": [
+        "(A) 直接補充維生素 C",
+        "(B) 抑制微管聚合並具細胞毒性",
+        "(C) 促進微管無限制聚合",
+        "(D) 只具有局部保濕作用"
+      ],
+      "answer": "B",
+      "explanation": "Podophyllotoxin 干擾微管功能，可抑制有絲分裂並具細胞毒性；其臨床使用應依特定製劑與指示。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 9,
+          "question": "49",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-050",
+      "number": "0050",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "鬼臼毒素衍生物 Etoposide 的主要抗癌作用機制為何？",
+      "options": [
+        "(A) 抑制第二型拓樸異構酶（Topoisomerase II）",
+        "(B) 抑制 HMG-CoA reductase",
+        "(C) 拮抗 H1 受體",
+        "(D) 活化細菌細胞壁合成"
+      ],
+      "answer": "A",
+      "explanation": "教材特別標記 etoposide 為 topoisomerase II 抑制劑，與 podophyllotoxin 的微管作用機制有所不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 9,
+          "question": "50",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-051",
+      "number": "0051",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "東莨菪（Scopoliae Rhizoma）的重要藥用部位為何？",
+      "options": [
+        "(A) 樹皮",
+        "(B) 花粉",
+        "(C) 種子",
+        "(D) 根莖"
+      ],
+      "answer": "D",
+      "explanation": "Rhizoma 為根莖；教材並列其基原與 tropane alkaloids。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 10,
+          "question": "51",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-052",
+      "number": "0052",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "東莨菪的重要生物鹼成分包括何者？",
+      "options": [
+        "(A) Allicin 與 Alliin",
+        "(B) Glycyrrhizin 與 Glycyrrhetinic acid",
+        "(C) Hyoscyamine 與 Scopolamine",
+        "(D) Scillaren A 與 Convallatoxin"
+      ],
+      "answer": "C",
+      "explanation": "Hyoscyamine 與 scopolamine 均屬莨菪烷型（tropane）生物鹼；其他配對屬其他藥材的代表性成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 10,
+          "question": "52",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-053",
+      "number": "0053",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "東莨菪所含 tropane alkaloids 的典型藥理作用為何？",
+      "options": [
+        "(A) 直接促進乙醯膽鹼釋放",
+        "(B) 毒蕈鹼型乙醯膽鹼受體拮抗作用",
+        "(C) β-lactam 抗菌作用",
+        "(D) 抑制血小板 COX-1 為唯一作用"
+      ],
+      "answer": "B",
+      "explanation": "教材強調 muscarinic antagonist（抗毒蕈鹼）機制，可產生解痙、抑制分泌、散瞳等作用。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 10,
+          "question": "53",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-054",
+      "number": "0054",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "北美黃連（Hydrastis Rhizoma）的來源植物為何？",
+      "options": [
+        "(A) Hydrastis canadensis",
+        "(B) Allium sativum",
+        "(C) Colchicum autumnale",
+        "(D) Rheum palmatum"
+      ],
+      "answer": "A",
+      "explanation": "北美黃連來源為 Hydrastis canadensis，藥用部位為根莖與根；其餘為大蒜、秋水仙與大黃相關植物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 10,
+          "question": "54",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-055",
+      "number": "0055",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "北美黃連的重要標誌性生物鹼是何組？",
+      "options": [
+        "(A) Allicin 與 Alliin",
+        "(B) Colchicine 與 Scillaren A",
+        "(C) Curcumin 與 Glycyrrhizin",
+        "(D) Hydrastine 與 Berberine"
+      ],
+      "answer": "D",
+      "explanation": "教材列出 hydrastine 和 berberine 的含量要求；其他選項與北美黃連主要成分不符。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 10,
+          "question": "55",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-056",
+      "number": "0056",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "黃耆的代表性三萜皂苷指標成分為何？",
+      "options": [
+        "(A) Aloin",
+        "(B) Colchicine",
+        "(C) Astragaloside IV（黃耆甲苷）",
+        "(D) Scopolamine"
+      ],
+      "answer": "C",
+      "explanation": "教材將黃耆甲苷 Astragaloside IV 列為重要指標之一，並列 calycosin-7-glucoside 等成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "56",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-057",
+      "number": "0057",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "黃耆中 Calycosin-7-glucoside 屬於何種成分類別？",
+      "options": [
+        "(A) 典型蒽醌苷",
+        "(B) 異黃酮類苷",
+        "(C) 莨菪烷型生物鹼",
+        "(D) 強心苷"
+      ],
+      "answer": "B",
+      "explanation": "Calycosin 為異黃酮類，7-glucoside 為其糖苷形式；與黃耆三萜皂苷 astragaloside IV 分屬不同類別。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "57",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-058",
+      "number": "0058",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "黃耆與紅耆的基原，下列何者正確？",
+      "options": [
+        "(A) 黃耆常見 Astragalus 屬；紅耆為 Hedysarum 屬",
+        "(B) 兩者均必為 Allium 屬",
+        "(C) 黃耆為 Rheum 屬；紅耆為 Scilla 屬",
+        "(D) 兩者均為 Colchicum 屬"
+      ],
+      "answer": "A",
+      "explanation": "教材比較黃耆與紅耆，兩者來源屬不同：黃耆以 Astragalus 為主，紅耆為 Hedysarum。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "58",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-059",
+      "number": "0059",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "桔梗（Platycodi Radix）的代表性活性成分主要是哪一類？",
+      "options": [
+        "(A) Tropane alkaloids",
+        "(B) 強心苷",
+        "(C) 無機鹽",
+        "(D) 三萜皂苷（Saponins）"
+      ],
+      "answer": "D",
+      "explanation": "桔梗含 platycodin 類三萜皂苷，與其界面活性及祛痰應用等有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "59",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-060",
+      "number": "0060",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "桔梗皂苷所屬的主要生合成途徑為何？",
+      "options": [
+        "(A) 僅莽草酸途徑",
+        "(B) 僅胺基酸途徑",
+        "(C) 乙酸－甲羥戊酸途徑",
+        "(D) 僅無機離子途徑"
+      ],
+      "answer": "C",
+      "explanation": "教材於桔梗頁直接註記 acetate–mevalonate pathway，與三萜皂苷的萜類苷元形成吻合。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "60",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-061",
+      "number": "0061",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "人參的主要代表性皂苷成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Ginsenosides（人參皂苷）",
+        "(C) Emetine",
+        "(D) Colchicine"
+      ],
+      "answer": "B",
+      "explanation": "人參以 ginsenoside 類皂苷為重要活性成分；其他分別為大蒜、吐根、秋水仙成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 11,
+          "question": "61",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-062",
+      "number": "0062",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "西洋參的生藥名是何者？",
+      "options": [
+        "(A) Panacis Quinquefolii Radix",
+        "(B) Aconiti Radix",
+        "(C) Asari Herba",
+        "(D) Coptidis Rhizoma"
+      ],
+      "answer": "A",
+      "explanation": "Panacis Quinquefolii Radix 表示西洋參；其他為附子、細辛與黃連。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "62",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-063",
+      "number": "0063",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "三七（Panacis Notoginseng Radix）的代表性成分類別為何？",
+      "options": [
+        "(A) 莨菪烷生物鹼",
+        "(B) 蒽醌醌類",
+        "(C) 蒜素硫化物",
+        "(D) 達瑪烷型三萜皂苷"
+      ],
+      "answer": "D",
+      "explanation": "三七以 notoginsenosides 與 ginsenosides 等皂苷成分為代表；其他成分類別對應不同藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "63",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-064",
+      "number": "0064",
+      "section": "附子與炮製",
+      "topic": "附子與炮製",
+      "question": "附子中具高度毒性的代表性成分為何？",
+      "options": [
+        "(A) Glycyrrhizin",
+        "(B) Gastrodin",
+        "(C) Aconitine（烏頭鹼）",
+        "(D) Berberine"
+      ],
+      "answer": "C",
+      "explanation": "附子含烏頭類二萜生物鹼，aconitine 等雙酯型成分毒性高；使用及炮製安全性尤其重要。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "64",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-065",
+      "number": "0065",
+      "section": "附子與炮製",
+      "topic": "附子與炮製",
+      "question": "附子炮製降低毒性的重要化學變化，何者正確？",
+      "options": [
+        "(A) 所有成分立即轉成金屬鹽",
+        "(B) 雙酯型烏頭鹼逐步水解成毒性較低的衍生物",
+        "(C) 使 aconitine 永久增加",
+        "(D) 讓全部生物鹼完全消失"
+      ],
+      "answer": "B",
+      "explanation": "教材圖示雙酯型 → 單酯型 → 胺醇型的轉化，毒性一般逐步下降；不表示所有有毒成分完全消失。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "65",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-066",
+      "number": "0066",
+      "section": "附子與炮製",
+      "topic": "附子與炮製",
+      "question": "附子炮製相關的毒性順序，教材圖示何者較正確？",
+      "options": [
+        "(A) 雙酯型 > 單酯型 > 胺醇型",
+        "(B) 胺醇型 > 雙酯型 > 單酯型",
+        "(C) 三類毒性完全相同",
+        "(D) 單酯型完全沒有任何生理活性"
+      ],
+      "answer": "A",
+      "explanation": "教材以雙酯型烏頭鹼毒性最高、單酯型次之、胺醇型較低說明減毒原理。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "66",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-067",
+      "number": "0067",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "遠志（Polygalae Radix）的重要成分類別為何？",
+      "options": [
+        "(A) 強心苷",
+        "(B) Tropane alkaloids",
+        "(C) 蒽醌類",
+        "(D) 三萜皂苷"
+      ],
+      "answer": "D",
+      "explanation": "遠志含 onjisaponins 等三萜皂苷；其苷元與萜類生合成有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 12,
+          "question": "67",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-068",
+      "number": "0068",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "遠志的三萜皂苷苷元生合成，主要涉及哪個路徑？",
+      "options": [
+        "(A) 直接光合作用而無中間物",
+        "(B) 胺基酸去羧作用為唯一來源",
+        "(C) 乙酸－甲羥戊酸途徑",
+        "(D) 無機磷酸鹽沉澱"
+      ],
+      "answer": "C",
+      "explanation": "教材在遠志頁標示 Acetate–mevalonate pathway，與其三萜皂苷骨架對應。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "68",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-069",
+      "number": "0069",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "美遠志（Senegae Radix）的主要活性成分以哪一類為代表？",
+      "options": [
+        "(A) 強心苷",
+        "(B) 三萜皂苷",
+        "(C) 醌類色素",
+        "(D) 單純無機鹽"
+      ],
+      "answer": "B",
+      "explanation": "教材提及 senegin 等皂苷組成，並以甲基水楊酸酯等作為其他組成補充。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "69",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-070",
+      "number": "0070",
+      "section": "龍膽類生藥",
+      "topic": "龍膽類生藥",
+      "question": "龍膽（Gentianae Scabrae Radix）的重要苦味苷代表為何？",
+      "options": [
+        "(A) Gentiopicroside（龍膽苦苷）",
+        "(B) Allicin",
+        "(C) Atropine",
+        "(D) Aconitine"
+      ],
+      "answer": "A",
+      "explanation": "龍膽含 gentiopicroside 等環烯醚萜苷類苦味物質；其他三者分屬不同藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "70",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-071",
+      "number": "0071",
+      "section": "龍膽類生藥",
+      "topic": "龍膽類生藥",
+      "question": "教材中龍膽相關的 secoiridoid（裂環環烯醚萜）主要源自何種途徑？",
+      "options": [
+        "(A) 僅胺基酸去羧途徑",
+        "(B) 無機鹽聚合",
+        "(C) 核酸複製途徑",
+        "(D) 乙酸－甲羥戊酸相關萜類途徑"
+      ],
+      "answer": "D",
+      "explanation": "裂環環烯醚萜屬單萜衍生物，教材將其歸於 Acetate–mevalonate pathway 的分類架構。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "71",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-072",
+      "number": "0072",
+      "section": "龍膽類生藥",
+      "topic": "龍膽類生藥",
+      "question": "歐龍膽（Gentianae Radix）常見的苦味指標成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Glycyrrhizin",
+        "(C) Gentiopicroside",
+        "(D) Shikonin"
+      ],
+      "answer": "C",
+      "explanation": "歐龍膽的代表成分包括 gentiopicroside 與 amarogentin 等苦味成分，非大蒜、甘草或紫草的主要指標。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "72",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-073",
+      "number": "0073",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "柴胡（Bupleuri Radix）的重要皂苷成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Saikosaponins（柴胡皂苷）",
+        "(C) Scopolamine",
+        "(D) Colchicine"
+      ],
+      "answer": "B",
+      "explanation": "柴胡含 saikosaponin 類皂苷，屬教材強調的重要辨識與藥理相關成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 13,
+          "question": "73",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-074",
+      "number": "0074",
+      "section": "印度蛇木",
+      "topic": "印度蛇木",
+      "question": "印度蛇木（Rauwolfiae Radix）的代表性生物鹼為何？",
+      "options": [
+        "(A) Reserpine（利血平）",
+        "(B) Colchicine",
+        "(C) Allicin",
+        "(D) Gastrodin"
+      ],
+      "answer": "A",
+      "explanation": "印度蛇木以 reserpine 等吲哚生物鹼為代表；其生物合成與色胺酸及萜類前驅物相關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "74",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-075",
+      "number": "0075",
+      "section": "印度蛇木",
+      "topic": "印度蛇木",
+      "question": "印度蛇木的單萜吲哚生物鹼骨架通常結合何種前驅物？",
+      "options": [
+        "(A) Alliin 與 alliinase",
+        "(B) Glycyrrhizin 與 glucuronic acid",
+        "(C) Emodin 與 chrysophanol",
+        "(D) Tryptamine 與 secologanin"
+      ],
+      "answer": "D",
+      "explanation": "教材示意 tryptamine 與 secologanin 形成單萜吲哚生物鹼的關鍵骨架前驅組合。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "75",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-076",
+      "number": "0076",
+      "section": "印度蛇木",
+      "topic": "印度蛇木",
+      "question": "Reserpine 的主要藥理方向與下列何者最接近？",
+      "options": [
+        "(A) 直接成為強心苷",
+        "(B) 提供高濃度葡萄糖",
+        "(C) 降血壓並影響單胺類神經傳遞物質的儲存",
+        "(D) 作為局部抗真菌洗劑唯一成分"
+      ],
+      "answer": "C",
+      "explanation": "教材記載 reserpine 具有降血壓與鎮靜作用，機轉與囊泡單胺轉運及儲存有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "76",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-077",
+      "number": "0077",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "魚藤（Tuba Radix）的代表性有效成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Rotenone（魚藤酮）",
+        "(C) Astragaloside IV",
+        "(D) Gentiopicroside"
+      ],
+      "answer": "B",
+      "explanation": "魚藤以 rotenone 為代表性成分，曾用作殺蟲相關用途；其他選項對應其他藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "77",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-078",
+      "number": "0078",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "顛茄根（Belladonnae Radix）含有哪類生物鹼？",
+      "options": [
+        "(A) Tropane alkaloids（莨菪烷型生物鹼）",
+        "(B) 單純嘌呤核苷酸",
+        "(C) 多醣類",
+        "(D) 類胡蘿蔔素"
+      ],
+      "answer": "A",
+      "explanation": "顛茄根以 hyoscyamine、atropine 等莨菪烷型生物鹼著稱。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "78",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-079",
+      "number": "0079",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "東莨菪鹼（Scopolamine）與何種骨架分類密切相關？",
+      "options": [
+        "(A) 三萜皂苷",
+        "(B) 蒽醌苷",
+        "(C) 強心苷",
+        "(D) Tropane alkaloids"
+      ],
+      "answer": "D",
+      "explanation": "Scopolamine 是典型莨菪烷型生物鹼，與 hyoscyamine、atropine 相關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 14,
+          "question": "79",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-080",
+      "number": "0080",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "Atropine 與 Hyoscyamine 的關係，何者較正確？",
+      "options": [
+        "(A) 兩者完全不含氮",
+        "(B) Atropine 是一種三萜苷",
+        "(C) Atropine 為 hyoscyamine 的消旋混合物",
+        "(D) Hyoscyamine 是無機鹽"
+      ],
+      "answer": "C",
+      "explanation": "教材指出 atropine 與 hyoscyamine 的立體化學關係，atropine 為旋光異構體的消旋混合物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "80",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-081",
+      "number": "0081",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "黃連（Coptidis Rhizoma）的代表性生物鹼為何？",
+      "options": [
+        "(A) Allicin（大蒜素）",
+        "(B) Berberine（小檗鹼）",
+        "(C) Emodin（大黃素）",
+        "(D) Scillaren A"
+      ],
+      "answer": "B",
+      "explanation": "黃連含 berberine、coptisine 等異喹啉類生物鹼，教材以 berberine 為重要代表。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "81",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-082",
+      "number": "0082",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "黃連中的 Berberine 屬於何種類型天然物？",
+      "options": [
+        "(A) 異喹啉類生物鹼",
+        "(B) 三萜皂苷",
+        "(C) 強心苷",
+        "(D) 脂肪酸"
+      ],
+      "answer": "A",
+      "explanation": "教材將黃連的 berberine 與 coptisine 等歸為 isoquinoline alkaloids。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "82",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-083",
+      "number": "0083",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "當歸（Angelicae Sinensis Radix）的重要揮發性／脂溶性成分包含何者？",
+      "options": [
+        "(A) Colchicine",
+        "(B) Astragaloside IV",
+        "(C) Allicin",
+        "(D) Ligustilide（藁本內酯）"
+      ],
+      "answer": "D",
+      "explanation": "教材在當歸成分列有 ligustilide 等內酯類，另有 ferulic acid；其餘非當歸主要代表。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "83",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-084",
+      "number": "0084",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "當歸中常被關注的酚酸類指標成分為何？",
+      "options": [
+        "(A) Aconitine（烏頭鹼）",
+        "(B) Convallatoxin（鈴蘭毒苷）",
+        "(C) Ferulic acid（阿魏酸）",
+        "(D) Allicin（大蒜素）"
+      ],
+      "answer": "C",
+      "explanation": "阿魏酸是當歸常見酚酸成分；其他選項為不同類型與來源的成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "84",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-085",
+      "number": "0085",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "紫草（Lithospermi Radix）的著色代表性成分為何？",
+      "options": [
+        "(A) Colchicine",
+        "(B) Shikonin（紫草素）",
+        "(C) Reserpine",
+        "(D) Ginsenoside Rb1"
+      ],
+      "answer": "B",
+      "explanation": "紫草含 shikonin 與 acetylshikonin 等萘醌色素，與其紫紅色特徵有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 15,
+          "question": "85",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-086",
+      "number": "0086",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "Shikonin（紫草素）主要歸入哪一類化學成分？",
+      "options": [
+        "(A) 萘醌類（Naphthoquinones）",
+        "(B) 莨菪烷生物鹼",
+        "(C) 強心苷",
+        "(D) 三萜皂苷"
+      ],
+      "answer": "A",
+      "explanation": "Shikonin 為萘醌類天然色素；結構與黃連生物鹼或人參皂苷不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "86",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-087",
+      "number": "0087",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "甘草（Glycyrrhizae Radix）的甜味重要成分為何？",
+      "options": [
+        "(A) Colchicine",
+        "(B) Allicin",
+        "(C) Atropine",
+        "(D) Glycyrrhizin（甘草甜素）"
+      ],
+      "answer": "D",
+      "explanation": "甘草甜素為甘草的重要三萜皂苷甜味成分，水解可產生苷元及糖部分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "87",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-088",
+      "number": "0088",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "甘草甜素（Glycyrrhizin）水解可產生何種苷元？",
+      "options": [
+        "(A) Allicin",
+        "(B) Emetine",
+        "(C) Glycyrrhetinic acid（甘草次酸）",
+        "(D) Scopolamine"
+      ],
+      "answer": "C",
+      "explanation": "教材生合成／水解圖指出 glycyrrhizin 水解釋出 glycyrrhetinic acid 與 glucuronic acid 等部分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "88",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-089",
+      "number": "0089",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "甘草甜素水解後的糖部分，教材特別指出何者？",
+      "options": [
+        "(A) Galactose only（只有半乳糖）",
+        "(B) Glucuronic acid（葡萄糖醛酸）",
+        "(C) Fructose only（只有果糖）",
+        "(D) Ribose only（只有核糖）"
+      ],
+      "answer": "B",
+      "explanation": "Glycyrrhizin 為含葡萄糖醛酸糖鏈的皂苷，教材明確標示 glucuronic acid。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "89",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-090",
+      "number": "0090",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "吐根（Ipecacuanhae Radix）的代表性生物鹼是何者？",
+      "options": [
+        "(A) Emetine（吐根鹼）",
+        "(B) Aconitine",
+        "(C) Colchicine",
+        "(D) Berberine"
+      ],
+      "answer": "A",
+      "explanation": "吐根含 emetine 與 cephaeline 等生物鹼；其他選項為附子、秋水仙、黃連相關成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "90",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-091",
+      "number": "0091",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "白芷（Angelicae Dahuricae Radix）的重要成分類別為何？",
+      "options": [
+        "(A) 強心苷",
+        "(B) 三萜皂苷為唯一成分",
+        "(C) 類固醇激素",
+        "(D) 香豆素類（Coumarins）"
+      ],
+      "answer": "D",
+      "explanation": "白芷含 imperatorin、byakangelicin、oxypeucedanin 等香豆素相關成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 16,
+          "question": "91",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-092",
+      "number": "0092",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "Imperatorin 常與何種生藥的成分鑑定相關？",
+      "options": [
+        "(A) 鈴蘭",
+        "(B) 黃耆",
+        "(C) 白芷",
+        "(D) 秋水仙"
+      ],
+      "answer": "C",
+      "explanation": "Imperatorin 為白芷所含重要呋喃香豆素；其餘藥材的指標物不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "92",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-093",
+      "number": "0093",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "黨參的基原通常屬於哪一植物屬？",
+      "options": [
+        "(A) Rheum",
+        "(B) Codonopsis",
+        "(C) Allium",
+        "(D) Scilla"
+      ],
+      "answer": "B",
+      "explanation": "黨參來源為 Codonopsis 屬植物，與藥材拉丁名 Codonopsis 相關，非大黃、蒜或海蔥屬。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "93",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-094",
+      "number": "0094",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "黨參的成分中，教材提及哪一項苷類指標？",
+      "options": [
+        "(A) Tangshenoside I",
+        "(B) Convallatoxin",
+        "(C) Gentiopicroside",
+        "(D) Aloin"
+      ],
+      "answer": "A",
+      "explanation": "黨參成分頁列有 tangshenosides 等；其餘分別屬鈴蘭、龍膽類或其他藥材指標。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "94",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-095",
+      "number": "0095",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "板藍根與青黛的物質組成，何種說法較符合教材？",
+      "options": [
+        "(A) 兩者均僅為鈣鹽",
+        "(B) 青黛主要為 allicin",
+        "(C) 板藍根主要為 cardiotonic glycoside",
+        "(D) 板藍根可含靛苷類前驅物，青黛含靛藍、靛玉紅等色素"
+      ],
+      "answer": "D",
+      "explanation": "教材比較板藍根、大青葉、青黛之來源與製備，並列 indican、indigo、indirubin 等相關成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "95",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-096",
+      "number": "0096",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "何首烏（Polygoni Multiflori Radix）常見的重要蒽醌類成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Reserpine",
+        "(C) Emodin（大黃素）",
+        "(D) Atropine"
+      ],
+      "answer": "C",
+      "explanation": "教材在何首烏頁列出 emodin、chrysophanol 等蒽醌類；其他成分分別屬其他藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "96",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-097",
+      "number": "0097",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "天麻（Gastrodiae Rhizoma）的代表性成分為何？",
+      "options": [
+        "(A) Colchicine",
+        "(B) Gastrodin（天麻素）",
+        "(C) Aconitine",
+        "(D) Berberine"
+      ],
+      "answer": "B",
+      "explanation": "教材將 gastrodin 列為天麻重要成分之一，與其藥材鑑別與品質評估有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 17,
+          "question": "97",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-098",
+      "number": "0098",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "細辛（Asari Herba）在安全性方面需關注哪類潛在有害成分？",
+      "options": [
+        "(A) Aristolochic acids（馬兜鈴酸類）",
+        "(B) 單純葡萄糖",
+        "(C) 氯化鈉",
+        "(D) 無機水分"
+      ],
+      "answer": "A",
+      "explanation": "教材警示馬兜鈴酸及相關安全風險；其安全性與來源鑑定、檢驗有關，不能將一般糖類或水分等同此毒性問題。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 18,
+          "question": "98",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-099",
+      "number": "0099",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "細辛揮發性成分中，教材列為木脂素類的代表為何？",
+      "options": [
+        "(A) Glycyrrhizin",
+        "(B) Berberine",
+        "(C) Colchicine",
+        "(D) Asarinin（細辛脂素）"
+      ],
+      "answer": "D",
+      "explanation": "教材列出 asarinin 等木脂素類，與其他生物鹼或皂苷類指標不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": true,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 18,
+          "question": "99",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。原題使用「揮發性成分」一詞，原解析僅確認木脂素類，該用語保留並待教材核對。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-100",
+      "number": "0100",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "川芎的代表性成分之一為何？",
+      "options": [
+        "(A) Convallatoxin",
+        "(B) Scopolamine",
+        "(C) Ligustilide（藁本內酯）",
+        "(D) Astragaloside IV"
+      ],
+      "answer": "C",
+      "explanation": "教材在川芎成分列出 phthalides（苯酞類），其中 ligustilide 為重要代表。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 18,
+          "question": "100",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-101",
+      "number": "0101",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "大黃（Rhei Radix et Rhizoma）中常見的重要蒽醌成分為何？",
+      "options": [
+        "(A) Allicin 與 Alliin",
+        "(B) Emodin 與 Chrysophanol",
+        "(C) Colchicine 與 Reserpine",
+        "(D) Scopolamine 與 Atropine"
+      ],
+      "answer": "B",
+      "explanation": "大黃含多種游離蒽醌與蒽醌苷，包括 emodin、chrysophanol、rhein 等；其他配對不是大黃的主要成分組。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 18,
+          "question": "101",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-102",
+      "number": "0102",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "大黃的藥用部位名稱「Radix et Rhizoma」表示何者？",
+      "options": [
+        "(A) 根及根莖",
+        "(B) 根及花",
+        "(C) 果實及種子",
+        "(D) 葉及皮"
+      ],
+      "answer": "A",
+      "explanation": "Radix 為根、Rhizoma 為根莖，et 意為「及」，因此是根及根莖。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 18,
+          "question": "102",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-103",
+      "number": "0103",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "大黃蒽醌類成分的主要生合成途徑為何？",
+      "options": [
+        "(A) 僅胺基酸途徑",
+        "(B) 僅光合作用光反應",
+        "(C) 僅固醇氧化反應",
+        "(D) 乙酸－丙二酸途徑"
+      ],
+      "answer": "D",
+      "explanation": "教材將大黃蒽醌連結 acetate–malonate pathway，此為蒽醌類成分的重要考點。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "103",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-104",
+      "number": "0104",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "大黃中 Anthraquinone glycosides 與 free anthraquinones 的關係，何者正確？",
+      "options": [
+        "(A) 游離蒽醌必含一條蛋白質鏈",
+        "(B) 兩者均屬無機鹽",
+        "(C) 苷類水解可形成相應的游離蒽醌",
+        "(D) 蒽醌苷完全不能水解"
+      ],
+      "answer": "C",
+      "explanation": "蒽醌苷含糖部分，適當水解可釋出苷元；游離蒽醌通常不帶糖基。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "104",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-105",
+      "number": "0105",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "教材特別比較 Chrysophanol anthrone 與 Emodin，下列何者為重點差異之一？",
+      "options": [
+        "(A) 二者皆為完全相同化學結構",
+        "(B) 芳香骨架的氧化程度與取代基不同",
+        "(C) 二者均是生物鹼",
+        "(D) 二者只含單一碳原子"
+      ],
+      "answer": "B",
+      "explanation": "教材圖表比較 anthrone 與 anthraquinone 的氧化程度及官能基，應從結構差異辨識而非混稱同一化合物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "105",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-106",
+      "number": "0106",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "大黃蒽醌類與瀉下作用的關係，何者符合教材？",
+      "options": [
+        "(A) 部分蒽醌衍生物及苷類與瀉下活性有關",
+        "(B) 所有成分均完全沒有藥理作用",
+        "(C) 只因含無機鹽而瀉下",
+        "(D) 只能透過麻醉受體起作用"
+      ],
+      "answer": "A",
+      "explanation": "教材將大黃相關蒽醌衍生物與腸道作用相連；作用受成分、代謝及劑量影響。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "106",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-107",
+      "number": "0107",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "黑蒜加工常伴隨下列何種反應？",
+      "options": [
+        "(A) 單純 DNA 複製",
+        "(B) 光合作用光反應",
+        "(C) 金屬電鍍反應",
+        "(D) 梅納反應（Maillard reaction）"
+      ],
+      "answer": "D",
+      "explanation": "教材指出黑蒜在溫度與濕度條件下發生梅納反應，與褐變、色澤與風味形成有關。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "107",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-108",
+      "number": "0108",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "黑蒜中 S-allyl-L-cysteine（SAC）的含量與生蒜比較，教材指出何者？",
+      "options": [
+        "(A) 加工後必然完全歸零",
+        "(B) 兩者必定始終相同",
+        "(C) 加工後通常增加",
+        "(D) SAC 是無機鈉鹽"
+      ],
+      "answer": "C",
+      "explanation": "教材黑蒜比較表指出 SAC 經適當加工通常增加，這是黑蒜成分變化的重要辨識點。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 19,
+          "question": "108",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-109",
+      "number": "0109",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "黑蒜加工時的褐黑色與 melanoidins 形成主要涉及何種反應？",
+      "options": [
+        "(A) 光合碳固定",
+        "(B) 梅納褐變反應",
+        "(C) 強心苷水解",
+        "(D) 蛋白質轉譯"
+      ],
+      "answer": "B",
+      "explanation": "Melanoidins（類黑精）與梅納反應的褐變產物有關，是黑蒜色澤改變的重要因素。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "109",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-110",
+      "number": "0110",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "薑黃主要活性成分 Curcumin（薑黃素）所屬成分類別較接近何者？",
+      "options": [
+        "(A) 薑黃素類多酚（Curcuminoids）",
+        "(B) 莨菪烷型生物鹼",
+        "(C) 強心苷",
+        "(D) 三萜皂苷"
+      ],
+      "answer": "A",
+      "explanation": "Curcumin 為 curcuminoids 的代表，教材另標出生合成前驅及相關結構。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "110",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-111",
+      "number": "0111",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "薑黃、莪朮與鬱金的藥用部位比較，何者正確？",
+      "options": [
+        "(A) 三者均僅用花粉",
+        "(B) 薑黃僅用果實",
+        "(C) 鬱金僅用葉片",
+        "(D) 薑黃與莪朮多用根莖，鬱金用塊根"
+      ],
+      "answer": "D",
+      "explanation": "教材比較表將薑黃、莪朮標為根莖，鬱金為塊根；是容易混淆的區別題。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "111",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-112",
+      "number": "0112",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "半夏（Pinellia Tuber）教材標記的刺激性相關結晶為何？",
+      "options": [
+        "(A) 氯化鈉晶體",
+        "(B) 蔗糖單晶",
+        "(C) 草酸鈣針晶",
+        "(D) 硫酸銅晶體"
+      ],
+      "answer": "C",
+      "explanation": "半夏含草酸鈣針晶，與機械性刺激相關；教材也提及凝集素等成分可能參與刺激。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "112",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-113",
+      "number": "0113",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "半夏經過適當炮製後刺激性降低，教材特別提出哪一種可能機制？",
+      "options": [
+        "(A) 所有成分均轉化為葡萄糖",
+        "(B) 草酸鈣針晶結構與凝集素相關活性可能改變",
+        "(C) 全部礦物質變成金屬鈉",
+        "(D) 完全轉成無機硫酸鹽"
+      ],
+      "answer": "B",
+      "explanation": "教材問題思索頁指出炮製可影響針晶結構與凝集素活性，不宜假設刺激性只來自單一物質或所有成分完全消失。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "113",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-114",
+      "number": "0114",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "半夏刺激性之形成，教材除了草酸鈣針晶還特別強調何種物質？",
+      "options": [
+        "(A) 凝集素（Lectins）",
+        "(B) 肝素（Heparin）",
+        "(C) 膽紅素（Bilirubin）",
+        "(D) 胰島素（Insulin）"
+      ],
+      "answer": "A",
+      "explanation": "教材指出半夏刺激性並非單靠草酸鈣針晶解釋，凝集素及其他與針晶相關物質亦可能參與。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 20,
+          "question": "114",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-115",
+      "number": "0115",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "下列何項在藥材對照中與「大蒜含硫成分」最直接相關？",
+      "options": [
+        "(A) Emodin、Rhein、Chrysophanol",
+        "(B) Berberine、Coptisine、Palmatine",
+        "(C) Gentiopicroside、Amarogentin",
+        "(D) Alliin、Allicin 與其衍生硫化物"
+      ],
+      "answer": "D",
+      "explanation": "大蒜以含硫成分為重要特色；其他選項分別偏向大黃、黃連與龍膽相關成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "115",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-116",
+      "number": "0116",
+      "section": "海蔥與強心苷",
+      "topic": "海蔥與強心苷",
+      "question": "Bufadienolide 與 Cardenolide 主要差異可由何者辨識？",
+      "options": [
+        "(A) 兩者一者有氮、一者完全沒有碳",
+        "(B) 前者全為蛋白質、後者全為核酸",
+        "(C) 強心苷苷元不飽和內酯環的環大小與型態",
+        "(D) 前者只出現於礦物類"
+      ],
+      "answer": "C",
+      "explanation": "兩類強心苷均有甾體苷元，但內酯環特徵不同；海蔥與鈴蘭是教材對照示例。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "116",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-117",
+      "number": "0117",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "下列有關 Podophyllotoxin 與 Etoposide 的敘述何者正確？",
+      "options": [
+        "(A) 兩者均為一模一樣的無機鹽",
+        "(B) 前者以干擾微管為主，後者抑制 topoisomerase II",
+        "(C) 前者是糖，後者是脂肪酸",
+        "(D) 兩者均透過抑制 Na+/K+-ATPase 強心"
+      ],
+      "answer": "B",
+      "explanation": "同為鬼臼相關骨架但作用機制不可混同：podophyllotoxin 干擾微管，etoposide 作用於第二型拓樸異構酶。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "117",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-118",
+      "number": "0118",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "黃耆成分 Astragaloside IV 與 Calycosin-7-glucoside 如何區分？",
+      "options": [
+        "(A) 前者為三萜皂苷，後者為異黃酮苷",
+        "(B) 兩者均為抗膽鹼生物鹼",
+        "(C) 前者為蒽醌，後者為類固醇強心苷",
+        "(D) 二者完全沒有糖部分"
+      ],
+      "answer": "A",
+      "explanation": "兩者是黃耆不同化學類別的標誌成分，熟悉分類有助於選擇分析方法及辨認結構。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "118",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-119",
+      "number": "0119",
+      "section": "附子與炮製",
+      "topic": "附子與炮製",
+      "question": "關於附子炮製減毒，下列何項是正確的安全認知？",
+      "options": [
+        "(A) 炮製後任何劑量都絕對安全",
+        "(B) 加熱一定使所有有毒成分瞬間完全消失",
+        "(C) 生品比炮製品必然更安全",
+        "(D) 水解可降低部分生物鹼毒性，但不代表可以任意生用"
+      ],
+      "answer": "D",
+      "explanation": "教材重點是雙酯型烏頭鹼轉化後毒性降低，但實際仍有毒性風險，不能據此推論沒有用藥限制。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "119",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-120",
+      "number": "0120",
+      "section": "龍膽類生藥",
+      "topic": "龍膽類生藥",
+      "question": "龍膽苦味成分 Gentiopicroside 最適合歸類為何者？",
+      "options": [
+        "(A) 莨菪烷型生物鹼",
+        "(B) 蒽醌苷",
+        "(C) 裂環環烯醚萜苷（Secoiridoid glycoside）",
+        "(D) 強心苷"
+      ],
+      "answer": "C",
+      "explanation": "Gentiopicroside 為 secoiridoid glycoside，是龍膽苦味來源相關的重要化學成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 21,
+          "question": "120",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-121",
+      "number": "0121",
+      "section": "印度蛇木",
+      "topic": "印度蛇木",
+      "question": "印度蛇木的 Reserpine 所屬化學大類為何？",
+      "options": [
+        "(A) 黃酮類",
+        "(B) 吲哚類生物鹼",
+        "(C) 蒽醌類",
+        "(D) 三萜皂苷"
+      ],
+      "answer": "B",
+      "explanation": "Reserpine 為單萜吲哚生物鹼；教材另列 ajmaline、serpentine 等同類群化合物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 22,
+          "question": "121",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-122",
+      "number": "0122",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "黃連的 Berberine 與北美黃連的 Berberine，何種說法較正確？",
+      "options": [
+        "(A) 兩種藥材均可能含 berberine，但基原不同",
+        "(B) 只要含 berberine 就必屬同一植物種",
+        "(C) 二者均為大蒜的含硫揮發油",
+        "(D) berberine 屬強心苷而非生物鹼"
+      ],
+      "answer": "A",
+      "explanation": "化合物可出現於不同基原的生藥；辨識仍須兼顧來源與其他成分，不能以共同單一成分認定相同藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 22,
+          "question": "122",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-123",
+      "number": "0123",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "Glycyrrhizin 在甘草中屬何種天然物？",
+      "options": [
+        "(A) 類強心苷",
+        "(B) 莨菪烷生物鹼",
+        "(C) 蒽醌類",
+        "(D) 三萜皂苷"
+      ],
+      "answer": "D",
+      "explanation": "Glycyrrhizin 的苷元 glycyrrhetinic acid 具三萜結構，與糖鏈共同構成皂苷。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 22,
+          "question": "123",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-124",
+      "number": "0124",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "下列何者是教材在板藍根、青黛相關頁強調的色素之一？",
+      "options": [
+        "(A) Allicin",
+        "(B) Colchicine",
+        "(C) Indirubin（靛玉紅）",
+        "(D) Convallatoxin"
+      ],
+      "answer": "C",
+      "explanation": "青黛相關成分包括 indigo（靛藍）與 indirubin（靛玉紅）；其餘為其他藥材代表成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 22,
+          "question": "124",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-125",
+      "number": "0125",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "何首烏中的 Emodin 與大黃中的 Emodin，何者正確？",
+      "options": [
+        "(A) 只要含 emodin 就可判定基原完全一致",
+        "(B) 同一化合物可見於不同生藥，藥材鑑別仍需其他資訊",
+        "(C) Emodin 為典型強心苷",
+        "(D) Emodin 為無機金屬鹽"
+      ],
+      "answer": "B",
+      "explanation": "共通蒽醌成分不代表藥材完全相同，需綜合基原、部位、指標成分組合及形態。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 22,
+          "question": "125",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-126",
+      "number": "0126",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "下列何組均屬教材大黃頁列出的蒽醌相關成分？",
+      "options": [
+        "(A) Emodin、Rhein、Chrysophanol",
+        "(B) Allicin、Alliin、SAC",
+        "(C) Scopolamine、Hyoscyamine、Atropine",
+        "(D) Reserpine、Ajmaline、Serpentine"
+      ],
+      "answer": "A",
+      "explanation": "大黃常見蒽醌包含 emodin、rhein、chrysophanol 等；其餘為大蒜、茄科生藥、印度蛇木成分群。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 23,
+          "question": "126",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-127",
+      "number": "0127",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "黑蒜與生蒜比較，下列何項通常符合教材比較表？",
+      "options": [
+        "(A) 黑蒜一定完全沒有含硫成分",
+        "(B) 生蒜一定比黑蒜含更多 SAC",
+        "(C) 黑蒜顏色一定保持純白",
+        "(D) 黑蒜還原糖及類黑精相關指標增加"
+      ],
+      "answer": "D",
+      "explanation": "黑蒜熱加工產生糖類變化及褐變產物；成分變化具加工條件依賴性。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 23,
+          "question": "127",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-128",
+      "number": "0128",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "薑黃屬藥材中，教材對「薑黃」的用藥部位與主要成分配對何者較正確？",
+      "options": [
+        "(A) 花粉－Tropane alkaloids",
+        "(B) 樹皮－Cardenolides",
+        "(C) 根莖－Curcuminoids",
+        "(D) 種子－Indole alkaloids"
+      ],
+      "answer": "C",
+      "explanation": "教材薑黃頁及對照表指出使用根莖，富含 curcuminoids 與揮發油等成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 23,
+          "question": "128",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-129",
+      "number": "0129",
+      "section": "其他根莖與全草生藥",
+      "topic": "其他根莖與全草生藥",
+      "question": "對半夏刺激性的解釋，何者最完整？",
+      "options": [
+        "(A) 只有草酸鈣針晶且其他物質不可能影響",
+        "(B) 草酸鈣針晶可能造成機械刺激，凝集素等物質亦可能參與",
+        "(C) 完全由無機鈉離子造成",
+        "(D) 刺激性必與炮製前後無關"
+      ],
+      "answer": "B",
+      "explanation": "教材指出應同時考慮草酸鈣針晶的形態及相關蛋白／凝集素活性，炮製可影響刺激程度。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 23,
+          "question": "129",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-130",
+      "number": "0130",
+      "section": "品質鑑定與檢驗",
+      "topic": "品質鑑定與檢驗",
+      "question": "生藥品質評估中，以 DNA 分子標記確認基原物種，主要屬於哪一面向？",
+      "options": [
+        "(A) 有效性評價",
+        "(B) 安全性評價",
+        "(C) 真實性評價",
+        "(D) 製劑崩散度試驗"
+      ],
+      "answer": "C",
+      "explanation": "DNA 分子標記比對遺傳資訊，用來確認真偽及基原，屬真實性；有效性偏重活性物質或藥效，安全性檢查毒性及污染，崩散度則為劑型品質。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 24,
+          "question": "130",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-131",
+      "number": "0131",
+      "section": "品質鑑定與檢驗",
+      "topic": "品質鑑定與檢驗",
+      "question": "測定藥材是否含某成分，與測定該成分有多少，分別稱為何者？",
+      "options": [
+        "(A) 定量分析、定性分析",
+        "(B) 定性分析、定量分析",
+        "(C) 安全性分析、真實性分析",
+        "(D) 顯微鑑別、產地鑑別"
+      ],
+      "answer": "B",
+      "explanation": "定性回答「有無、是何物」，定量回答「含量多少」；兩者不能倒置。顯微與產地鑑別也不能直接替代濃度測定。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 24,
+          "question": "131",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-132",
+      "number": "0132",
+      "section": "品質鑑定與檢驗",
+      "topic": "品質鑑定與檢驗",
+      "question": "下列哪一組檢驗最直接針對生藥的「外來有害污染物」進行安全性評價？",
+      "options": [
+        "(A) 農藥殘留與重金屬檢測",
+        "(B) 拉丁生藥名確認與植物分類",
+        "(C) 有效成分含量與色譜指紋",
+        "(D) 種子萌發率與開花期"
+      ],
+      "answer": "A",
+      "explanation": "農藥殘留、重金屬屬外來污染物，應以安全性檢驗控制；基原鑑定偏真實性，成分含量偏有效性，生長性狀不能取代污染物檢測。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 24,
+          "question": "132",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-133",
+      "number": "0133",
+      "section": "品質鑑定與檢驗",
+      "topic": "品質鑑定與檢驗",
+      "question": "藥材從採收到製劑過程中，何者最符合課堂所述品質管理原則？",
+      "options": [
+        "(A) 只在採收當天檢驗一次即可",
+        "(B) 只在成品包裝完成後看外觀即可",
+        "(C) 同一品種所有批次必然成分一致",
+        "(D) 生產、加工、儲運至製劑均須動態監控"
+      ],
+      "answer": "D",
+      "explanation": "品質隨生產、採收、加工、貯藏、運輸與炮製變動，所以需全程監控。單次檢驗或假設批次一致，都無法保證最終品質穩定。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 24,
+          "question": "133",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-134",
+      "number": "0134",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "依第一週課堂命名例外，下列何者屬「礦物生藥直接用礦物名稱」的例子？",
+      "options": [
+        "(A) Eucommiae Cortex（杜仲）",
+        "(B) Artemisiae Annuae Herba（青蒿）",
+        "(C) Realgar（雄黃）",
+        "(D) Bovis Calculus（牛黃）"
+      ],
+      "answer": "C",
+      "explanation": "Realgar 是以礦物本身名稱作生藥名的例子；杜仲和青蒿包含來源、部位的詞組，牛黃為動物來源的生藥名稱。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 24,
+          "question": "134",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-135",
+      "number": "0135",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "相較於「Radix Belladonnae」，將來源詞置前的「Belladonnae Radix」較有利於什麼？",
+      "options": [
+        "(A) 讓所有根類藥材都必然相鄰",
+        "(B) 把相同基原的不同藥用部位排列比較",
+        "(C) 取消植物基原鑑定的必要",
+        "(D) 把拉丁生藥名改為英文俗名"
+      ],
+      "answer": "B",
+      "explanation": "來源置前使同來源的不同部位更容易排列比較；舊式部位置前較容易將同部位相鄰。無論排序方式都不能免除基原確認。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 25,
+          "question": "135",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-136",
+      "number": "0136",
+      "section": "生藥學總論與命名",
+      "topic": "生藥學總論與命名",
+      "question": "生藥部位詞「Pollen」代表何者？",
+      "options": [
+        "(A) 花粉",
+        "(B) 花",
+        "(C) 果實",
+        "(D) 種子"
+      ],
+      "answer": "A",
+      "explanation": "Pollen 為花粉；Flos 為花，Fructus 為果實，Semen 為種子。第一週筆記指出原表 Pollem 是拼字問題，應依正文 Pollen 辨認。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 25,
+          "question": "136",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-137",
+      "number": "0137",
+      "section": "品質鑑定與檢驗",
+      "topic": "品質鑑定與檢驗",
+      "question": "生藥學品質管理中，「有效性」可以透過哪項方法加以評價？",
+      "options": [
+        "(A) 只核對包裝上的產地字樣",
+        "(B) 只觀察植株花瓣顏色",
+        "(C) 只測定外來重金屬含量",
+        "(D) 指標成分定量及生物效應評價"
+      ],
+      "answer": "D",
+      "explanation": "有效性重點在代表療效的成分及藥效表現，可採定量與生物效應評價；產地與外觀屬輔助鑑定，重金屬限量屬安全性。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 25,
+          "question": "137",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-138",
+      "number": "0138",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "多酮（polyketide）生合成中，每加入一個 malonyl-CoA 延長單元，碳鏈淨增加多少碳？",
+      "options": [
+        "(A) 1 個",
+        "(B) 3 個",
+        "(C) 2 個",
+        "(D) 5 個"
+      ],
+      "answer": "C",
+      "explanation": "Malonyl-CoA 本身含三碳，但在縮合時脫羧釋出 CO2，淨留下二碳參與延長；不可直接把分子總碳數視為增加的鏈長。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 25,
+          "question": "138",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-139",
+      "number": "0139",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "多酮鏈形成 β-ketoester 的典型縮合反應為何？",
+      "options": [
+        "(A) Maillard reaction",
+        "(B) Claisen condensation",
+        "(C) Ester hydrolysis only",
+        "(D) Peptide bond formation"
+      ],
+      "answer": "B",
+      "explanation": "教材以 Claisen 縮合解釋 acetyl-CoA 與 malonyl-CoA 的二碳延長；梅納反應為非酵素褐變，酯水解與胜肽鍵形成不是此處建鏈的反應。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 25,
+          "question": "139",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-140",
+      "number": "0140",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "多酮合成酶模組中，負責 β-keto 還原的功能單元通常縮寫為何？",
+      "options": [
+        "(A) KR",
+        "(B) KS",
+        "(C) DH",
+        "(D) ER"
+      ],
+      "answer": "A",
+      "explanation": "KR 是 ketoreductase；KS 是 ketosynthase（縮合），DH 是 dehydratase（脫水），ER 是 enoyl reductase（烯醯還原）。四者作用不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 26,
+          "question": "140",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-141",
+      "number": "0141",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "依課堂多酮還原程度概念，β-keto 鏈若幾乎不還原，較可能導向哪種產物？",
+      "options": [
+        "(A) 高度還原的脂肪酸",
+        "(B) 純無機鹽",
+        "(C) 核糖核酸",
+        "(D) 芳香族多酮產物"
+      ],
+      "answer": "D",
+      "explanation": "未充分還原的多羰基鏈較易經折疊、環化與芳香化形成芳香族產物；高度還原則較偏脂肪酸型產物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 26,
+          "question": "141",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-142",
+      "number": "0142",
+      "section": "天然物生合成途徑",
+      "topic": "天然物生合成途徑",
+      "question": "莽草酸路徑早期由哪兩個中央代謝前驅物縮合形成 DAHP？",
+      "options": [
+        "(A) Acetyl-CoA 與 squalene",
+        "(B) GPP 與 FPP",
+        "(C) PEP 與 erythrose-4-phosphate",
+        "(D) Glucose 與 cholesterol"
+      ],
+      "answer": "C",
+      "explanation": "Phosphoenolpyruvate（PEP）與 erythrose-4-phosphate（E4P）是 DAHP 的前驅物；其他配對分屬萜類、脂質或不相關階段。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 26,
+          "question": "142",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-143",
+      "number": "0143",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "水解型單寧中，相鄰 galloyl 單元氧化偶聯後可形成哪類單寧及相關水解產物？",
+      "options": [
+        "(A) Condensed tannins 與 limonene",
+        "(B) Ellagitannins 與 ellagic acid",
+        "(C) Cardenolides 與 alliin",
+        "(D) Tropane alkaloids 與 atropine"
+      ],
+      "answer": "B",
+      "explanation": "鞣花單寧（ellagitannins）由 galloyl 單元氧化偶聯相關結構構成，水解可產生 ellagic acid；其餘化合物不屬此途徑。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 26,
+          "question": "143",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-144",
+      "number": "0144",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "關於 lignin 與 lignan 的差別，下列何者正確？",
+      "options": [
+        "(A) Lignin 是多單元聚合物，lignan 常由兩個 C6C3 單元偶聯",
+        "(B) 兩者都是單一 C5 萜類",
+        "(C) Lignin 必為生物鹼，lignan 必為多醣",
+        "(D) 兩者均為強心配醣體"
+      ],
+      "answer": "A",
+      "explanation": "木質素 lignin 為植物細胞壁中的高分子聚合物；木脂素 lignan 典型為兩個苯丙素 C6C3 單元偶聯。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 26,
+          "question": "144",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-145",
+      "number": "0145",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "典型 lignan 與 neolignan 最常用的區分重點為何？",
+      "options": [
+        "(A) 分子是否含有水分",
+        "(B) 是否含有氯化鈉",
+        "(C) 是否一定含 30 個碳",
+        "(D) 兩個 C6C3 單元是否以 8–8′ 方式偶聯"
+      ],
+      "answer": "D",
+      "explanation": "課堂將典型 lignan 與 β–β（8–8′）偶聯連結，其他連結方式常歸 neolignan；兩者都可以有兩個 C6C3 單元。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 27,
+          "question": "145",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-146",
+      "number": "0146",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "關於 Sennosides 與 Hypericin，下列何者符合講義對照？",
+      "options": [
+        "(A) 兩者皆以強心作用為主",
+        "(B) 前者由大蒜產生，後者由附子產生",
+        "(C) 前者與瀉下有關，後者具光敏性且不具瀉下作用",
+        "(D) 兩者皆為典型三萜皂苷"
+      ],
+      "answer": "C",
+      "explanation": "番瀉苷（sennosides）與番瀉葉瀉下作用相關；金絲桃素 hypericin 具有光敏性且教材標示 no purgative action。結構相關不表示作用相同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 27,
+          "question": "146",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-147",
+      "number": "0147",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "下列關於綠原酸（chlorogenic acid）的組成，何者正確？",
+      "options": [
+        "(A) 是單純咖啡酸的葡萄糖苷",
+        "(B) 含 caffeoyl 與 quinic acid 相關部分",
+        "(C) 由 alliinase 直接生成",
+        "(D) 屬於五員環強心苷"
+      ],
+      "answer": "B",
+      "explanation": "綠原酸為咖啡醯與奎寧酸相關的酯；不是直接把咖啡酸誤認為葡萄糖苷。其他選項屬大蒜或強心苷系統。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 27,
+          "question": "147",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-148",
+      "number": "0148",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "薄荷醇（menthol）產生冷感最直接相關的受體為何？",
+      "options": [
+        "(A) TRPM8",
+        "(B) Na+/K+-ATPase",
+        "(C) Topoisomerase II",
+        "(D) Muscarinic M3 agonist"
+      ],
+      "answer": "A",
+      "explanation": "Menthol 可活化冷感相關 TRPM8 離子通道而產生冷感；不等於實際降低組織溫度。其餘為其他生藥／藥物常見作用靶點。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 27,
+          "question": "148",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-149",
+      "number": "0149",
+      "section": "天然物成分與分類",
+      "topic": "天然物成分與分類",
+      "question": "青蒿素（artemisinin）辨識上最具特色的結構元素為何？",
+      "options": [
+        "(A) 硫代亞磺酸酯",
+        "(B) 三個糖基相連",
+        "(C) 甾體五員內酯環",
+        "(D) 過氧鍵（peroxide linkage）"
+      ],
+      "answer": "D",
+      "explanation": "青蒿素為倍半萜內酯，其過氧鍵是關鍵結構特徵；硫代亞磺酸酯較涉及大蒜素，甾體內酯屬強心苷。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 27,
+          "question": "149",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-150",
+      "number": "0150",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "Curcuma 四種生藥比較中，下列何者同時符合鬱金（Curcumae Radix）的部位與性味？",
+      "options": [
+        "(A) 根莖、辛苦溫",
+        "(B) 種子、甘平",
+        "(C) 塊根、辛苦寒",
+        "(D) 樹皮、苦寒"
+      ],
+      "answer": "C",
+      "explanation": "鬱金在比較表中為乾燥塊根，辛、苦、寒；薑黃、片薑黃與莪朮的核心部位多為根莖且辛苦溫。只記 Curcuma 屬名不足以區分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 28,
+          "question": "150",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-151",
+      "number": "0151",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "四種 Curcuma 藥材中，哪一項被教材特別列有「行氣解鬱、清心涼血、利膽退黃」？",
+      "options": [
+        "(A) 薑黃",
+        "(B) 鬱金",
+        "(C) 片薑黃",
+        "(D) 莪朮"
+      ],
+      "answer": "B",
+      "explanation": "本週 Test 比較表將行氣解鬱、清心涼血、利膽退黃配給鬱金；薑黃、片薑黃偏破血行氣通經止痛，莪朮另著重消積止痛。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 28,
+          "question": "151",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-152",
+      "number": "0152",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "依課堂薑黃素含量計算式 0.02×(rU/rS)×CS/W，當 rU/rS＝1、CS＝10 μg/mL、W＝0.2 g 時，含量為何？",
+      "options": [
+        "(A) 1%",
+        "(B) 0.1%",
+        "(C) 10%",
+        "(D) 20%"
+      ],
+      "answer": "A",
+      "explanation": "直接代入得到 0.02×1×10÷0.2＝1（%）。rU/rS 是樣品與標準峰面積比，W 為乾品重量；不能省略除以 W。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 28,
+          "question": "152",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-153",
+      "number": "0153",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "本週 Test 標示的薑黃素 HPLC 含量測定，其偵測波長為何？",
+      "options": [
+        "(A) 254 nm",
+        "(B) 517 nm",
+        "(C) 760 nm",
+        "(D) 430 nm"
+      ],
+      "answer": "D",
+      "explanation": "講義指定薑黃素於 430 nm 偵測。517 nm 常見於 DPPH，760 nm 常見 Folin 方法；不可將其他實驗波長套進本題。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 28,
+          "question": "153",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-154",
+      "number": "0154",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "依第三週投影片，薑黃素 HPLC 測定所用移動相組成何者正確？",
+      "options": [
+        "(A) 甲醇：水＝95：5",
+        "(B) 乙腈：磷酸水＝90：10",
+        "(C) 乙腈：0.4% 無水乙酸溶液＝48：52",
+        "(D) 乙醇：水＝1：99"
+      ],
+      "answer": "C",
+      "explanation": "投影片列移動相為乙腈與 0.4% 無水乙酸溶液以 48：52 混合；其他比例不是本頁標示條件，不能自行用常見條件替代。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 28,
+          "question": "154",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-155",
+      "number": "0155",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "針對薑黃品質規格，「總 curcuminoids」與「curcumin」的關係何者正確？",
+      "options": [
+        "(A) 兩者完全是同一個單一峰",
+        "(B) 總量包含 curcumin、demethoxycurcumin、bisdemethoxycurcumin",
+        "(C) 總量只計揮發油",
+        "(D) Curcumin 一律為三萜生物鹼"
+      ],
+      "answer": "B",
+      "explanation": "Curcumin 為單一指標成分；總 curcuminoids 是多個薑黃素類成分的合計，不能混用單一成分標準和總量標準。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 29,
+          "question": "155",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-156",
+      "number": "0156",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "在薑黃 HPLC 指紋圖中，以薑黃素峰相對保留時間 1.00 為參考時，「0.83」的意義為何？",
+      "options": [
+        "(A) 某特徵峰保留時間相對於參考峰的比值",
+        "(B) 該峰必定在 0.83 分鐘出現",
+        "(C) 樣品濃度為 0.83 mg/mL",
+        "(D) 該峰吸光度為 0.83 AU"
+      ],
+      "answer": "A",
+      "explanation": "相對保留時間是與參考峰時間的比值，不是直接的分鐘數、濃度或吸光值。本頁將去二甲氧基薑黃素列為 0.83。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 29,
+          "question": "156",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-157",
+      "number": "0157",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "第三週比較的大蒜相關 Allium 生藥中，以「乾燥成熟種子」入藥的是何者？",
+      "options": [
+        "(A) 大蒜",
+        "(B) 蔥白",
+        "(C) 薤白",
+        "(D) 韭菜子"
+      ],
+      "answer": "D",
+      "explanation": "韭菜子使用成熟種子；其餘三者於講義比較表主要以鱗莖相關部位入藥。這是同屬藥材的部位辨識，不是單純名稱配對。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 29,
+          "question": "157",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-158",
+      "number": "0158",
+      "section": "大蒜與蔥屬生藥",
+      "topic": "大蒜與蔥屬生藥",
+      "question": "第三週講義所列 Allicin 的藥典含量標準為何？",
+      "options": [
+        "(A) USP：NLT 0.5%",
+        "(B) ChP：NLT 0.15%",
+        "(C) EP：NLT 0.45%",
+        "(D) THP：NMT 5.0%"
+      ],
+      "answer": "C",
+      "explanation": "Allicin（大蒜素）在投影片列 EP 不得少於 0.45%；USP 0.5% 對應 Alliin，ChP 0.15% 對應 Allitride，不能把不同化合物與藥典互換。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 29,
+          "question": "158",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-159",
+      "number": "0159",
+      "section": "薑黃屬生藥",
+      "topic": "薑黃屬生藥",
+      "question": "依第三週課堂薑黃品質表，THP 對揮發油的最低規格為何？",
+      "options": [
+        "(A) NLT 7.0%（v/w）",
+        "(B) NLT 5.0%（v/w）",
+        "(C) NMT 5.0%（v/w）",
+        "(D) NLT 0.45%（v/w）"
+      ],
+      "answer": "B",
+      "explanation": "本頁表格將 THP 揮發油下限列為 5.0%（v/w），而 ChP 為 7.0%（v/w）。NLT 代表不得少於，且揮發油體積重量百分比不得與 curcuminoids 的含量指標混淆。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 29,
+          "question": "159",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-160",
+      "number": "0160",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "關於秋水仙與番紅花的藥用部位，下列何者正確？",
+      "options": [
+        "(A) 秋水仙取球莖與種子；番紅花取柱頭",
+        "(B) 兩者均取花瓣",
+        "(C) 兩者均取乾燥根皮",
+        "(D) 秋水仙取柱頭；番紅花取球莖"
+      ],
+      "answer": "A",
+      "explanation": "雖然 Autumn crocus 名稱易混淆，秋水仙（Colchicum）使用球莖及種子；番紅花（Crocus sativus）為乾燥柱頭，基原與部位都不同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 30,
+          "question": "160",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-161",
+      "number": "0161",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "依第四週投影片，秋水仙素在種子與球莖中的約略含量何者正確？",
+      "options": [
+        "(A) 種子 0.6%，球莖 0.8%",
+        "(B) 兩者皆 5.0%",
+        "(C) 種子 0.02%，球莖 0.01%",
+        "(D) 種子 0.8%，球莖 0.6%"
+      ],
+      "answer": "D",
+      "explanation": "手寫索引 13 的原圖列 Colchicine 種子約 0.8%、球莖約 0.6%，此為教材約略含量而非藥典 NLT/NMT 規格。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 30,
+          "question": "161",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-162",
+      "number": "0162",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "下列哪一敘述最符合秋水仙素的安全性特性？",
+      "options": [
+        "(A) 治療指數極廣且無需監測",
+        "(B) 不會產生任何神經毒性",
+        "(C) 治療指數狹窄，並可能造成胃腸道與血球相關毒性",
+        "(D) 完全不影響有絲分裂細胞"
+      ],
+      "answer": "C",
+      "explanation": "教材指出秋水仙素治療指數狹窄，列有噁心、嘔吐、腹瀉、嗜中性白血球低下及嚴重神經與器官毒性。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 30,
+          "question": "162",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-163",
+      "number": "0163",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "製備普達非林樹脂時，教材指出哪一類成分可能在水相析出及洗滌時流失？",
+      "options": [
+        "(A) 全部脂溶性樹脂成分",
+        "(B) 水溶性 glucosides",
+        "(C) 所有無機物及有機物均不變",
+        "(D) 全部成分都轉為蛋白質"
+      ],
+      "answer": "B",
+      "explanation": "乙醇滲漉後以水相使樹脂析出並洗滌，水溶性 glucosides 可能留在上清或洗液而損失；故最終製品成分不同於原藥材。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 30,
+          "question": "163",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-164",
+      "number": "0164",
+      "section": "秋水仙與普達非林",
+      "topic": "秋水仙與普達非林",
+      "question": "普達非林相關品質表中，對 Podophyllum peltatum 根及根莖所列 USP 限度是何者？",
+      "options": [
+        "(A) Podophyllum resin 不得少於 5.0%",
+        "(B) Colchicine 不得少於 0.8%",
+        "(C) Allicin 不得少於 0.45%",
+        "(D) Curcumin 不得少於 10%"
+      ],
+      "answer": "A",
+      "explanation": "本頁 USP 標準指原料根與根莖中的 resin 不得少於 5.0%；不得把樹脂製品的規格與單一 podophyllotoxin 含量混為一談。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 30,
+          "question": "164",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-165",
+      "number": "0165",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "依第四週教材，東莨菪浸膏（extract）總生物鹼的含量範圍為何？",
+      "options": [
+        "(A) 0.01%–0.02%",
+        "(B) 2.5%–3.0%",
+        "(C) 5.0%–10.0%",
+        "(D) 0.90%–1.09%"
+      ],
+      "answer": "D",
+      "explanation": "講義列東莨菪浸膏標準化為總生物鹼 0.90%–1.09%，與原生藥總生物鹼 NLT 0.29% 是不同測定對象。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 31,
+          "question": "165",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-166",
+      "number": "0166",
+      "section": "東莨菪與顛茄",
+      "topic": "東莨菪與顛茄",
+      "question": "東莨菪原生藥的「總生物鹼 NLT 0.29%」應如何解讀？",
+      "options": [
+        "(A) 兩個單一成分皆一定各達 0.29%",
+        "(B) 僅測定萜類揮發油",
+        "(C) 測定的是總量，非 hyoscyamine 與 scopolamine 各須達 0.29%",
+        "(D) 是浸膏必須低於 0.29%"
+      ],
+      "answer": "C",
+      "explanation": "NLT 指不得少於。總生物鹼為合計指標，不等於每一個單一生物鹼個別下限，也不應與浸膏濃度直接混算。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 31,
+          "question": "166",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-167",
+      "number": "0167",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "北美黃連的 hydrastine 含量下限，哪組 USP 與 EP 配對正確？",
+      "options": [
+        "(A) USP 2.5%；EP 2.0%",
+        "(B) USP 2.0%；EP 2.5%",
+        "(C) USP 0.2%；EP 0.5%",
+        "(D) USP 5.0%；EP 7.0%"
+      ],
+      "answer": "B",
+      "explanation": "第四週畫記 23 的比較表列 hydrastine：USP NLT 2.0%、EP NLT 2.5%；berberine 另為 USP 2.5%、EP 3.0%。不可交換兩種成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 31,
+          "question": "167",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-168",
+      "number": "0168",
+      "section": "北美黃連與黃連",
+      "topic": "北美黃連與黃連",
+      "question": "北美黃連的 berberine 下限標準依第四週講義為何？",
+      "options": [
+        "(A) USP 2.5%；EP 3.0%",
+        "(B) USP 2.0%；EP 2.5%",
+        "(C) USP 0.29%；EP 1.09%",
+        "(D) USP 0.5%；EP 0.45%"
+      ],
+      "answer": "A",
+      "explanation": "Berberine：USP NLT 2.5%、EP NLT 3.0%；USP 2.0% 與 EP 2.5% 其實對應 hydrastine，其他選項屬不同藥材成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 31,
+          "question": "168",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-169",
+      "number": "0169",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "桔梗主根與蘆頭部的髓部特徵，下列何者符合第五週教材？",
+      "options": [
+        "(A) 主根與蘆頭皆必有大髓",
+        "(B) 主根與蘆頭皆必無髓",
+        "(C) 兩者均只有木栓而無維管組織",
+        "(D) 主根無髓，蘆頭部可有髓"
+      ],
+      "answer": "D",
+      "explanation": "教材將「主根無髓」與「蘆頭部有髓」分別描述不同區域，並不矛盾；鑑別時不能將局部特徵推及整條根。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 31,
+          "question": "169",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-170",
+      "number": "0170",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "桔梗酒精浸漬後切片呈扇狀球晶，教材將其辨識為何物？",
+      "options": [
+        "(A) 澱粉（starch）",
+        "(B) 草酸鈣針晶",
+        "(C) 菊糖（inulin）",
+        "(D) 纖維素微纖絲"
+      ],
+      "answer": "C",
+      "explanation": "教材指出桔梗幾無澱粉粒，酒精浸漬後可見菊糖扇狀球晶；不可把菊糖和澱粉等同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 32,
+          "question": "170",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-171",
+      "number": "0171",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "桔梗確認試驗中，強烈振盪產生持續泡沫主要提示何種成分類別？",
+      "options": [
+        "(A) 莨菪烷生物鹼",
+        "(B) 皂苷",
+        "(C) 蒽醌",
+        "(D) 單純脂肪酸鹽"
+      ],
+      "answer": "B",
+      "explanation": "皂苷分子具兩親性而能降低表面張力形成持久泡沫；泡沫反應是類別提示，不等於已確認某一個特定 platycodin 分子。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 32,
+          "question": "171",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-172",
+      "number": "0172",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "第五週手寫 Test 指向的人參特異香氣成分，講義列為何者？",
+      "options": [
+        "(A) Panacene",
+        "(B) Ginsenoside Rb1",
+        "(C) Glycyrrhizin",
+        "(D) Colchicine"
+      ],
+      "answer": "A",
+      "explanation": "人參揮發油段落列 panacene（C15H24）與特異香氣相關；ginsenosides 為皂苷群，不可把香氣成分與主皂苷互換。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 32,
+          "question": "172",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-173",
+      "number": "0173",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "人參橫切面滴加稀碘液後呈暗青色，主要支持哪一項判斷？",
+      "options": [
+        "(A) 確證單一 ginsenoside Rb1",
+        "(B) 證明完全不含多醣",
+        "(C) 確證含 atropine",
+        "(D) 存在澱粉相關反應"
+      ],
+      "answer": "D",
+      "explanation": "碘液與澱粉形成有色複合體，暗青色可作澱粉辨識；不是特定人參皂苷或莨菪鹼的專一分析。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 32,
+          "question": "173",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-174",
+      "number": "0174",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "教材中紅參相較白參，最典型的加工方式為何？",
+      "options": [
+        "(A) 完全未經加熱而直接鮮用",
+        "(B) 只以冷水洗滌不乾燥",
+        "(C) 蒸製後乾燥",
+        "(D) 以強酸長期浸泡"
+      ],
+      "answer": "C",
+      "explanation": "紅參經蒸製後乾燥，常呈紅棕、半透明及角質斷面；白參多經曬乾或烘乾。兩者不是不同植物種。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 32,
+          "question": "174",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-175",
+      "number": "0175",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "三七（Panax notoginseng）除皂苷外，講義特別列出的止血相關成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Dencichine（三七素）",
+        "(C) Scopolamine",
+        "(D) Hypericin"
+      ],
+      "answer": "B",
+      "explanation": "第五週原講義將 dencichine 列為三七止血相關成分；其餘屬大蒜、東莨菪與貫葉連翹相關天然物。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 33,
+          "question": "175",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-176",
+      "number": "0176",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "遠志商品名稱中，「遠志筒」的主要加工形態特徵是何者？",
+      "options": [
+        "(A) 去除木心後呈筒狀",
+        "(B) 保留完整木心而實心",
+        "(C) 只取乾燥成熟種子",
+        "(D) 僅由花粉壓製"
+      ],
+      "answer": "A",
+      "explanation": "遠志筒是抽除木心而形成中空筒狀；遠志肉是捶裂去心，遠志骨／棍則未去心。這些是商品形態差異。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 33,
+          "question": "176",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-177",
+      "number": "0177",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "第五週教材以遠志木部與皮部的溶血性差異，推論皂苷主要集中於何處？",
+      "options": [
+        "(A) 木部中心",
+        "(B) 花瓣",
+        "(C) 果皮",
+        "(D) 皮部"
+      ],
+      "answer": "D",
+      "explanation": "教材指出遠志木部溶血作用顯著低於皮部，對應主要皂苷分布在皮部；不能只依藥材總重量判定各部位成分相同。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 33,
+          "question": "177",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-178",
+      "number": "0178",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "美遠志的典型外觀鑑別特徵是何者？",
+      "options": [
+        "(A) 所有根均為完全平直無稜",
+        "(B) 果實表面有四條翼",
+        "(C) 彎曲凹側可見明顯腱狀稜線",
+        "(D) 根表面均覆白色膜質鱗片"
+      ],
+      "answer": "C",
+      "explanation": "第五週指出美遠志根彎曲凹側常見腱狀稜線，與異常發達的內部髓線／柔組織特徵相連；不要與遠志去木心後中空外觀混淆。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 33,
+          "question": "178",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-179",
+      "number": "0179",
+      "section": "皂苷生藥",
+      "topic": "皂苷生藥",
+      "question": "美遠志（Senega）揮發油中講義指出的主要成分為何？",
+      "options": [
+        "(A) Allicin",
+        "(B) Methyl salicylate（水楊酸甲酯）",
+        "(C) Aconitine",
+        "(D) Convallatoxin"
+      ],
+      "answer": "B",
+      "explanation": "教材在美遠志成分列揮發油約 0.25–0.33%，主成分 methyl salicylate；其三萜皂苷 senegin 為另一組成分。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 33,
+          "question": "179",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    },
+    {
+      "id": "pharmacognosy-180",
+      "number": "0180",
+      "section": "附子與炮製",
+      "topic": "附子與炮製",
+      "question": "第五週附子飲片圖片辨識中，手寫 Test 特別要求比較哪一組加工品？",
+      "options": [
+        "(A) 鹽附子、白附片、黑順片",
+        "(B) 生曬參、紅參、糖參",
+        "(C) 遠志筒、遠志肉、遠志骨",
+        "(D) 生大黃、熟大黃、酒大黃"
+      ],
+      "answer": "A",
+      "explanation": "第五週手寫 Test 指向鹽附子、白附片、黑順片的外觀：應辨認整體或切片、皮緣及切面色澤。其他選項為不同藥材的加工或商品型態。單靠外觀不能證明炮製安全。",
+      "answerStatus": "原檔答案（本次未另行核驗）",
+      "needsReview": false,
+      "image": null,
+      "hasAnnotations": false,
+      "isNewAttachment": false,
+      "isLatestImport": true,
+      "sources": [
+        {
+          "title": "生藥學期中_修正版_180題_完整單選詳解閃卡.pdf",
+          "page": 34,
+          "question": "180",
+          "url": "",
+          "note": "題目、四個選項、答案及完整詳解摘錄自本PDF；分類為匯入時新增索引。"
+        }
+      ],
+      "verificationUrls": []
+    }
+  ],
+  "title": "生藥學題庫"
+}
