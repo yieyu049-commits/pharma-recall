@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24-plant-tissue-culture-v1",
+  "version": "plant-tissue-culture-v2-verified",
   "subject": "plant_tissue_culture",
   "title": "植物組織培養題庫",
   "total": 78,
@@ -322,17 +322,17 @@
       "number": "0010",
       "section": "研究歷史與細胞全能性",
       "topic": "研究歷史與細胞全能性",
-      "question": "教材將 1939 年由胡蘿蔔癒傷組織觀察根與芽分化的研究連結至何人？",
+      "question": "下列哪位研究者在1939年報告胡蘿蔔根組織可經繼代培養而持續生長？",
       "options": [
         "(A) Carlson",
-        "(B) Pierre Nob[原檔缺字]court",
+        "(B) Pierre Nobécourt",
         "(C) Bergmann",
         "(D) Tulecke"
       ],
       "answer": "B",
-      "explanation": "教材記載 Nob[原檔缺字]court 在長期培養胡蘿蔔癒傷組織後，觀察並誘導根、芽分化。\n\n選項解析：（A）錯誤，Carlson 研究體細胞雜種；（B）正確，教材記載 Nob[原檔缺字]court 在長期培養胡蘿蔔癒傷組織後，觀察並誘導根、芽分化；（C）錯誤，Bergmann 研究單細胞平板培養；（D）錯誤，Tulecke 研究銀杏花粉培養",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案為B。Pierre Nobécourt在1939年報告胡蘿蔔根組織可經繼代培養而持續生長；此處不將「根與芽皆分化」合併歸於1939年。Gautheret同年也有胡蘿蔔組織持續培養研究，因此本題只在所列四個選項中辨識研究者，不宣稱Nobécourt是唯一先驅。\n\n選項解析：（A）Carlson等人在1972年報告融合不同菸草的原生質體而取得體細胞雜種，不是本題1939年的胡蘿蔔培養報告。（B）正確，Pierre Nobécourt符合題幹所述。（C）Bergmann在1960年報告以薄瓊脂層培養單細胞，建立組織克隆。（D）Tulecke在1953年發表由銀杏花粉取得組織的研究。\n\n校訂註：原PDF姓名字元缺失，依學術來源補為Nobécourt；原題「1939年根與芽分化」已改為史料直接支持的持續繼代培養。",
+      "answerStatus": "姓名與歷史敘述已校訂；答案 B 已核對",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -343,10 +343,41 @@
           "page": 3,
           "question": "10",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：人名 Nob…court 的中間字元在原PDF題面及解析均為空白。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。姓名補為 Pierre Nobécourt；原題把1939年與根、芽分化合併，已改為可由史料確認的持續繼代培養。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "University of Hamburg：Cultures of Meristems and Calli",
+          "url": "https://www-archiv.fdm.uni-hamburg.de/b-online/e29/29a.htm",
+          "note": "1939年、Nobécourt、胡蘿蔔根外植體及持續繼代培養的歷史資料。"
+        },
+        {
+          "title": "Nobécourt（1947）：Appearance of leafy shoots on carrot tissue cultures",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18899963/",
+          "note": "芽形成的原始研究書目紀錄；與1939年的持續培養報告分開。"
+        },
+        {
+          "title": "Carlson 等（1972）：Parasexual interspecific plant hybridization",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16592009/",
+          "note": "A選項：原生質體融合與體細胞雜種。"
+        },
+        {
+          "title": "Bergmann（1960）：Growth and Division of Single Cells of Higher Plants in Vitro",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2195034/",
+          "note": "C選項：單細胞培養。"
+        },
+        {
+          "title": "Tulecke（1953）：A tissue derived from the pollen of Ginkgo biloba",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/13056628/",
+          "note": "D選項：銀杏花粉培養。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://www-archiv.fdm.uni-hamburg.de/b-online/e29/29a.htm",
+        "https://pubmed.ncbi.nlm.nih.gov/18899963/",
+        "https://pubmed.ncbi.nlm.nih.gov/16592009/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2195034/",
+        "https://pubmed.ncbi.nlm.nih.gov/13056628/"
+      ]
     },
     {
       "id": "plant-tissue-culture-011",
@@ -1097,7 +1128,7 @@
       "number": "0035",
       "section": "次級代謝與毛狀根",
       "topic": "次級代謝與毛狀根",
-      "question": "Hiraoka 比較凝膠材料時，教材指出可顯著提高紫草[原檔缺2字]色素產率的是？",
+      "question": "Hiraoka 比較凝膠材料時，教材指出可顯著提高紫草萘醌色素產率的是？",
       "options": [
         "(A) 所有一般商業級 phytagar",
         "(B) 只要不加凝膠即可",
@@ -1105,9 +1136,9 @@
         "(D) 任意凝膠濃度都一樣"
       ],
       "answer": "C",
-      "explanation": "教材列 gelrite（Kelco）與 purified agar（Difco）使 naphthoquinone pigments 相較其他材料提高約 6–9 倍。\n\n選項解析：（A）錯誤，並非教材顯著提高的指定兩種；（B）錯誤，與觀察相反；（C）正確，教材列 gelrite（Kelco）與 purified agar（Difco）使 naphthoquinone pigments 相較其他材料提高約 6–9 倍；（D）錯誤，不同凝膠材質造成結果差異",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 C。課程投影片引用 Hiraoka（1990），指出在所比較的紫草細胞培養條件下，Gelrite（Kelco）與 purified agar（Difco）可提高萘醌色素（naphthoquinone pigments）產率，約為其他受測凝膠的6–9倍。此結果有特定材料與培養條件，不能推廣為所有植物與所有濃度均相同。\n\n選項解析：\n（A）錯誤；一般商業級 phytagar 並非投影片指出的兩種有效材料。\n（B）錯誤；不加凝膠不是這項比較所得的結論。\n（C）正確；與原課程投影片列出的兩種材料一致。\n（D）錯誤；原比較顯示材料選擇會影響結果，不能推論任意濃度都一樣。",
+      "answerStatus": "依原課程投影片已核對；答案 C；缺字為「萘醌」",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1118,10 +1149,24 @@
           "page": 8,
           "question": "35",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：題幹「紫草」與「色素」之間兩個原字元空白。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。依課程原頁將色素名稱補為「萘醌」，答案與6–9倍敘述均已對照投影片。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "組織培養期中考點.pdf",
+          "url": "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+          "note": "投影片第52頁，標題「凝膠物質」；列出兩種材料及相對產率。依課程原頁核對，未宣稱已重核原論文實驗數據。",
+          "page": 20
+        },
+        {
+          "title": "Hiraoka（1990）原論文期刊目錄",
+          "url": "https://mol.medicalonline.jp/en/archive/search?issue=3&jo=cg5yaksj&vo=44&ye=1990",
+          "note": "原論文題名及書目：Effects of Gelling Agents on the Growth and Naphthoquinone Accumulation of Lithospermum erythrorhizon Callus Cultures，44(3):230–234；本連結為目錄。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+        "https://mol.medicalonline.jp/en/archive/search?issue=3&jo=cg5yaksj&vo=44&ye=1990"
+      ]
     },
     {
       "id": "plant-tissue-culture-036",
@@ -1469,17 +1514,17 @@
       "number": "0047",
       "section": "培養基與營養",
       "topic": "培養基與營養",
-      "question": "下列哪一鹽類為教材列舉的鉀（K）來源？",
+      "question": "下列哪一種鹽類可作為植物組織培養基的鉀（K）來源？",
       "options": [
-        "(A) CaCl[原檔缺字]",
-        "(B) MgSO[原檔缺字]",
-        "(C) KNO[原檔缺字]",
-        "(D) FeSO[原檔缺字]"
+        "(A) CaCl₂",
+        "(B) MgSO₄",
+        "(C) KNO₃",
+        "(D) FeSO₄"
       ],
       "answer": "C",
-      "explanation": "KNO[原檔缺字] 提供鉀，亦提供硝酸態氮；教材並列 KCl 為另一鉀來源。\n\n選項解析：（A）錯誤，主要作鈣及氯來源；（B）錯誤，主要供鎂及硫；（C）正確，KNO[原檔缺字] 提供鉀，亦提供硝酸態氮；教材並列 KCl 為另一鉀來源；（D）錯誤，作鐵來源而非鉀",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 C。KNO₃（硝酸鉀）提供 K⁺，也提供硝酸態氮。\n\n逐項解析：\n（A）CaCl₂ 為氯化鈣，提供鈣與氯，不含鉀。\n（B）MgSO₄ 為硫酸鎂，提供鎂與硫，不含鉀。\n（C）KNO₃ 為硝酸鉀，四個選項中只有它含鉀。\n（D）FeSO₄ 為硫酸亞鐵，提供鐵與硫，不含鉀。\n\n補充：KNO₃ 並非所有培養基的唯一鉀來源；MS 配方也含 KH₂PO₄、KI。實際秤量可能使用水合鹽，須按所採配方及試劑水合形式換算，不能將無水式與水合式的重量直接互換。",
+      "answerStatus": "答案 C 已核對；化學式與逐項解析已校訂",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1490,27 +1535,34 @@
           "page": 10,
           "question": "47",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：A–D化學式及KNO相關解析的下標字元空白。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。補齊 CaCl₂、MgSO₄、KNO₃、FeSO₄ 的下標；四個選項只有KNO₃含鉀。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "Thermo Fisher Scientific — Murashige and Skoog Salt and Vitamin Mixture powder",
+          "url": "https://www.thermofisher.com/us/en/home/technical-resources/media-formulation.129.html",
+          "note": "Inorganic Salts 表列 CaCl₂、MgSO₄、KNO₃、FeSO₄·7H₂O；Other Components 列 Na₂EDTA。KNO₃ 的元素組成同時含 K 與硝酸根。配方另有 KH₂PO₄、KI 等含鉀鹽，故不能說 KNO₃ 是培養基唯一鉀來源。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://www.thermofisher.com/us/en/home/technical-resources/media-formulation.129.html"
+      ]
     },
     {
       "id": "plant-tissue-culture-048",
       "number": "0048",
       "section": "培養基與營養",
       "topic": "培養基與營養",
-      "question": "為避免鐵鹽沉澱，教材建議 FeSO[原檔缺字] 與何種物質搭配？",
+      "question": "為降低鐵鹽沉澱並供應螯合鐵，FeSO₄ 可與何種物質搭配？",
       "options": [
         "(A) 蔗糖",
         "(B) 乙烯",
         "(C) 洋菜",
-        "(D) Na[原檔缺字]EDTA"
+        "(D) Na₂EDTA"
       ],
       "answer": "D",
-      "explanation": "Na[原檔缺字]EDTA 可與鐵離子形成螯合物（Fe-EDTA），提高溶液中鐵的穩定性與可利用性。\n\n選項解析：（A）錯誤，不是此處螯合劑；（B）錯誤，屬氣態植物激素；（C）錯誤，屬凝膠物質；（D）正確，Na[原檔缺字]EDTA 可與鐵離子形成螯合物（Fe-EDTA），提高溶液中鐵的穩定性與可利用性",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 D。Na₂EDTA 是 EDTA 二鈉，作為螯合劑與鐵形成 Fe–EDTA 配合物，有助維持鐵在培養液中的溶解與可利用性。這是降低沉澱風險的配方策略，不是任何條件下都不會沉澱的保證。\n\n逐項解析：\n（A）蔗糖通常作碳源與能量來源，不是本題製備 Fe–EDTA 所用的螯合劑。\n（B）乙烯為氣態植物激素，不是這個鐵母液配法的螯合劑。\n（C）洋菜（agar）主要作凝膠劑，不是 EDTA 的替代物。\n（D）Na₂EDTA 為正確選項；原廠鐵母液程序明列 EDTA 二鈉與硫酸亞鐵搭配。\n\n補充：pH、配比、儲存與光照都可能影響螯合鐵的穩定性。原始研究曾觀察到螯合不足或 EDTA 光氧化後的鐵沉澱。",
+      "answerStatus": "答案 D 已核對；化學式與逐項解析已校訂",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1521,27 +1573,47 @@
           "page": 11,
           "question": "48",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：題幹FeSO與D選項Na…EDTA中的下標字元空白，解析亦同。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。補齊 FeSO₄、Na₂EDTA；螯合作用表述為降低沉澱風險。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "組織培養期中考點.pdf",
+          "url": "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+          "page": 28,
+          "note": "原課程投影片第18頁，已直接對照頁面文字。原課程列出FeSO₄、Na₂EDTA分別溶解後混合。"
+        },
+        {
+          "title": "Merck / Sigma-Aldrich — Iron Chelate Solution: Plant Tissue Culture Protocol",
+          "url": "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/plant-tissue-culture/iron-chelate-solution",
+          "note": "10X 配法將硫酸亞鐵七水合物與 EDTA 二鈉分別溶於水，再合併並定容；加熱標示為可能需要。同頁替代的 200X 配法先溶解 EDTA 二鈉，再逐漸加入硫酸亞鐵七水合物。因此分開溶解是有效方法，但不是唯一方法。"
+        },
+        {
+          "title": "Dalton, Iqbal & Turner (1983), Iron phosphate precipitation in Murashige and Skoog media",
+          "url": "https://doi.org/10.1111/j.1399-3054.1983.tb02771.x",
+          "note": "研究發現 MS 培養基儲存時可因鐵螯合不足形成以磷酸鐵為主的沉澱。因此 EDTA 的用途是協助螯合與維持溶液中的鐵，並不保證任何條件下都沒有沉澱。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+        "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/plant-tissue-culture/iron-chelate-solution",
+        "https://doi.org/10.1111/j.1399-3054.1983.tb02771.x"
+      ]
     },
     {
       "id": "plant-tissue-culture-049",
       "number": "0049",
       "section": "培養基與營養",
       "topic": "培養基與營養",
-      "question": "配製螯合鐵母液的程序何者最符合教材？",
+      "question": "配製螯合鐵母液時，下列何者是一種可行的標準操作？",
       "options": [
-        "(A) FeSO[原檔缺字] 與 Na[原檔缺字]EDTA 分別溶解後再混合",
+        "(A) FeSO₄ 與 Na₂EDTA 分別溶解後再混合",
         "(B) 直接將所有乾粉置於培養瓶不加水",
         "(C) 先加入高濃度強鹼使鐵沉澱",
         "(D) 完全不需攪拌即可形成穩定溶液"
       ],
       "answer": "A",
-      "explanation": "教材主張將兩者先各自溶解，再混合形成螯合鐵，減少局部沉澱。\n\n選項解析：（A）正確，教材主張將兩者先各自溶解，再混合形成螯合鐵，減少局部沉澱；（B）錯誤，不利均勻螯合；（C）錯誤，形成沉澱與配製目的相反；（D）錯誤，教材特別列混合及攪拌步驟",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 A。將 FeSO₄ 與 Na₂EDTA 分別溶解，再混合與定容，是 Merck/Sigma 原廠列出的螯合鐵母液配法之一。\n\n選項解析：\n（A）正確；符合原廠10X鐵母液的配製程序。\n（B）錯誤；未加水的乾粉尚未製成母液。\n（C）錯誤；刻意使鐵沉澱與取得溶解的螯合鐵母液目的相反。\n（D）不選；所引程序包含溶解與混合，不能把「完全不需攪拌」當作可靠通則。\n\n補充：分開溶解不是唯一步驟選擇。同一原廠也列出先溶解EDTA二鈉，再逐漸加入硫酸亞鐵的替代法；加熱與pH等條件應依完整配方。",
+      "answerStatus": "答案 A 已核對；化學式與逐項解析已校訂",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1552,27 +1624,47 @@
           "page": 11,
           "question": "49",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：A選項FeSO與Na…EDTA中的下標字元空白。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。補齊 FeSO₄、Na₂EDTA；題幹及詳解改明確指出這是可行配法之一。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "組織培養期中考點.pdf",
+          "url": "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+          "page": 28,
+          "note": "原課程投影片第18頁，已直接對照頁面文字。原課程列出FeSO₄、Na₂EDTA分別溶解後混合。"
+        },
+        {
+          "title": "Merck / Sigma-Aldrich — Iron Chelate Solution: Plant Tissue Culture Protocol",
+          "url": "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/plant-tissue-culture/iron-chelate-solution",
+          "note": "10X 配法將硫酸亞鐵七水合物與 EDTA 二鈉分別溶於水，再合併並定容；加熱標示為可能需要。同頁替代的 200X 配法先溶解 EDTA 二鈉，再逐漸加入硫酸亞鐵七水合物。因此分開溶解是有效方法，但不是唯一方法。"
+        },
+        {
+          "title": "NPTEL — Applications of Plant Biotechnology in Crop Improvement, Lecture 3: Tissue Culture Media, page 3",
+          "url": "https://archive.nptel.ac.in/content/storage2/courses/102103016/module1/lec3/3.html",
+          "note": "MS 培養基表後的鐵母液說明，使用 FeSO₄·7H₂O 與 Na₂EDTA；兩者分別溶解，必要時加熱，再合併定容。該特定程序另列高壓滅菌；不可將這一步推廣成所有 Fe-EDTA 配法的必要條件。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+        "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/plant-tissue-culture/iron-chelate-solution",
+        "https://archive.nptel.ac.in/content/storage2/courses/102103016/module1/lec3/3.html"
+      ]
     },
     {
       "id": "plant-tissue-culture-050",
       "number": "0050",
       "section": "培養基與營養",
       "topic": "培養基與營養",
-      "question": "教材建議大量與微量元素母液通常儲存在何種溫度？",
+      "question": "大量與微量元素母液若採一般冷藏保存，下列哪個溫度最合適？",
       "options": [
         "(A) 37°C",
         "(B) 4°C",
         "(C) 60°C",
-        "(D) [原檔缺字]80°C"
+        "(D) −80°C"
       ],
       "answer": "B",
-      "explanation": "教材寫明母液（stock solutions）配製後置於 4°C 冰箱保存；實際保存仍應依配方與實驗室規範。\n\n選項解析：（A）錯誤，不是一般母液冷藏溫度；（B）正確，教材寫明母液（stock solutions）配製後置於 4°C 冰箱保存；實際保存仍應依配方與實驗室規範；（C）錯誤，高溫易使部分成分劣化；（D）錯誤，非教材所述一般溫度",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 B。4°C屬常用冷藏溫度，符合原廠對多種培養基鹽類母液的建議範圍；實際保存仍須遵循所用配方及產品標示。\n\n選項解析：\n（A）37°C不是冷藏溫度。\n（B）4°C符合一般冷藏保存範圍。\n（C）60°C屬高溫，不是冷藏條件。\n（D）−80°C屬超低溫冷凍，不是本題所問的一般冷藏保存。\n\n校訂註：原PDF中D選項80°C前的符號已遺失，無法還原；本版明確校訂此干擾選項為−80°C，答案仍為B。特定母液可能另有冷凍或保存期限規定，不宜將4°C概括為所有配方的唯一條件。",
+      "answerStatus": "答案 B（4°C）已核對；D選項為編輯校訂",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1583,10 +1675,37 @@
           "page": 11,
           "question": "50",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：D選項80°C前有一個原字元空白；保留缺字位置，不推定正負號。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；本版已依下列來源校訂缺字、題幹或詳解。80°C前符號無法由原PDF恢復，本版將D選項明確校訂為−80°C；題幹限定一般冷藏保存，避免把特定配方需求一概而論。原PDF缺字碼已遺失，本版是有來源支持的校訂，不宣稱逐字復原。"
+        },
+        {
+          "title": "組織培養期中考點.pdf",
+          "url": "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+          "page": 29,
+          "note": "原課程投影片第19頁，已直接對照頁面文字。原課程明寫大量與微量元素母液置4°C冰箱保存；未提供D選項原符號。"
+        },
+        {
+          "title": "Merck：Plant Tissue Culture Media Preparation",
+          "url": "https://www.merckmillipore.com/UG/en/technical-documents/protocol/cell-culture-and-cell-culture-analysis/plant-tissue-culture/media-preparation",
+          "note": "Basal salt solutions 建議儲存於0–5°C。"
+        },
+        {
+          "title": "PhytoTech：Components of Tissue Culture Media",
+          "url": "https://phytotechlab.com/media/documents/TechnicalLiterature/ComponentsOfTissueCultureMedia.pdf",
+          "note": "大量元素母液建議2–4°C；微量元素依配方可冷藏或冷凍。",
+          "page": 6
+        },
+        {
+          "title": "PhytoTech：Murashige & Skoog Micronutrient Stock Solution (10x)",
+          "url": "https://phytotechlab.com/murashige-skoog-micronutrient-stock-solution-10x.html",
+          "note": "微量元素母液產品標示建議2–8°C。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+        "https://www.merckmillipore.com/UG/en/technical-documents/protocol/cell-culture-and-cell-culture-analysis/plant-tissue-culture/media-preparation",
+        "https://phytotechlab.com/media/documents/TechnicalLiterature/ComponentsOfTissueCultureMedia.pdf",
+        "https://phytotechlab.com/murashige-skoog-micronutrient-stock-solution-10x.html"
+      ]
     },
     {
       "id": "plant-tissue-culture-051",
@@ -1624,7 +1743,7 @@
       "number": "0052",
       "section": "植物激素與生長調節",
       "topic": "植物激素與生長調節",
-      "question": "下列何者為教材指出組織培養中最主要的兩類生長調節物質？",
+      "question": "植物組織培養中，最常用來調控器官形成的兩大類生長調節物質為何？",
       "options": [
         "(A) 乙烯與離酸",
         "(B) 赤黴素與乙烯",
@@ -1632,9 +1751,9 @@
         "(D) 生長素（Auxin）與細胞分裂素（Cytokinin）"
       ],
       "answer": "D",
-      "explanation": "教材指出 Auxins 與 Cytokinins 為組織培養最主要兩類調節物質，GA[原檔缺字]、ABA、乙烯等只在部分條件使用。\n\n選項解析：（A）錯誤，並非教材所述兩大主軸；（B）錯誤，並非教材所述兩大主軸；（C）錯誤，兩者不屬這兩類植物激素；（D）正確，教材指出 Auxins 與 Cytokinins 為組織培養最主要兩類調節物質，GA[原檔缺字]、ABA、乙烯等只在部分條件使用",
-      "answerStatus": "原檔答案（本次未另行核驗）",
-      "needsReview": true,
+      "explanation": "答案 D。生長素與細胞分裂素是組織培養中主要使用的兩大類生長調節物質；種類、濃度、比例與外植體狀態會影響根、芽及癒傷組織形成。\n\n選項解析：\n（A）乙烯與離酸（ABA，亦稱脫落酸）也是植物激素，但不是本題的主要兩類。\n（B）赤黴素與乙烯可依培養目的使用，並非本題正確組合。\n（C）脯胺酸是胺基酸；蔗糖主要作碳源與能量來源，並非這兩類生長調節物質。\n（D）正確；生長素與細胞分裂素的配合常用於調控器官發生。\n\n補充：其他調節物質也有特定用途，例如赤黴素（GA₃等）可用於芽或節間伸長。不同培養系統的需要不同，並非都必須外加兩類調節物質。",
+      "answerStatus": "答案 D 已核對；GA₃ 下標已對照原課程投影片",
+      "needsReview": false,
       "image": null,
       "hasAnnotations": false,
       "isNewAttachment": false,
@@ -1645,10 +1764,36 @@
           "page": 11,
           "question": "52",
           "url": "",
-          "note": "題目、四選項、原答案及完整逐項詳解忠實摘錄；章節分類為依內容新增的複習索引。原檔缺字已視覺確認：兩處解析中的GA後下標字元空白。以[原檔缺字]標示，未猜補。"
+          "note": "原題出處；原PDF的GA下標缺失，已依原課程投影片（PDF第31頁、投影片第24頁）明確校訂為GA₃。詳解另依學術與教學來源補充；此為來源校訂，並非從損壞PDF字碼恢復。"
+        },
+        {
+          "title": "組織培養期中考點.pdf",
+          "url": "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+          "page": 31,
+          "note": "原課程投影片第24頁，已直接對照頁面文字。明確列出生長素、細胞分裂素及GA₃（下標3）。"
+        },
+        {
+          "title": "NPTEL — Applications of Plant Biotechnology in Crop Improvement, Lecture 3: Tissue Culture Media, page 4",
+          "url": "https://archive.nptel.ac.in/content/storage2/courses/102103016/module1/lec3/4.html",
+          "note": "1.3 Plant growth regulators 明確指出 auxins 與 cytokinins 在組織培養中最為重要，其他類別依情境使用；其相對濃度與根、芽及癒傷組織形成有關，所需比例依組織與內生調節物質而異。1.2 將 agar 列為凝膠劑。"
+        },
+        {
+          "title": "PSS Central Institute of Vocational Education / NCERT — Plant Tissue Culture Technician, Grade 11",
+          "url": "https://www.psscive.ac.in/storage/uploads/textbooks/pdf/english/plant-tissue-culture-technician-english-class-11.pdf",
+          "note": "印刷頁 44（PDF 第 50 頁）3.3 說明 GA₃ 可用於芽／節間伸長等用途；3.4 將 ABA 與乙烯列為其他植物激素。印刷頁 54（PDF 第 60 頁）鐵母液操作列分別溶解後再混合。僅採其直接相關操作與 GA₃ 用途，不採其與本題無關的概括敘述。"
+        },
+        {
+          "title": "University of Minnesota — The Science of Plants, 4.2 Plant Hormones",
+          "url": "https://open.lib.umn.edu/horticulture/chapter/4-2-plant-hormones/",
+          "note": "Cytokinins 小節說明細胞分裂素與生長素的組織培養交互作用；表 4.1 明確以 GA₃ 為赤黴素實例。GA 是一大類，並非所有 GA 都等於 GA₃。"
         }
       ],
-      "verificationUrls": []
+      "verificationUrls": [
+        "https://drive.google.com/file/d/1rYIIUZSdDuy3dlpkIkMQaV4GZC5xp6rm/view?usp=drivesdk",
+        "https://archive.nptel.ac.in/content/storage2/courses/102103016/module1/lec3/4.html",
+        "https://www.psscive.ac.in/storage/uploads/textbooks/pdf/english/plant-tissue-culture-technician-english-class-11.pdf",
+        "https://open.lib.umn.edu/horticulture/chapter/4-2-plant-hormones/"
+      ]
     },
     {
       "id": "plant-tissue-culture-053",

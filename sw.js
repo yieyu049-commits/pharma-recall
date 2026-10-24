@@ -1,4 +1,4 @@
-const CACHE='pharma-recall-assets-v4-20261024';
+const CACHE='pharma-recall-assets-v5-plant-verified';
 const SHELL=['./','index.html','style.css','app.mjs','scheduler.mjs','cards.json','pharmacognosy.json','plant-tissue-culture.json','icon.svg','icon-192.png','icon-512.png','manifest.webmanifest'];
 const assetUrl=path=>new URL(path,self.registration.scope).href;
 self.addEventListener('install',event=>event.waitUntil((async()=>{
@@ -8,7 +8,7 @@ self.addEventListener('install',event=>event.waitUntil((async()=>{
 })()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);
- const legacy=(await caches.keys()).filter(name=>name==='pharma-recall-assets-v1'||name.startsWith('pharma-recall-assets-v2')||name.startsWith('pharma-recall-assets-v3'));
+ const legacy=(await caches.keys()).filter(name=>name==='pharma-recall-assets-v1'||name.startsWith('pharma-recall-assets-v2')||name.startsWith('pharma-recall-assets-v3')||name.startsWith('pharma-recall-assets-v4'));
  for(const name of legacy){try{const old=await caches.open(name);for(const request of await old.keys()){const url=new URL(request.url);if(url.href.startsWith(self.registration.scope)&&url.pathname.includes('/images/')&&!await cache.match(request)){const response=await old.match(request);if(response)await cache.put(request,response)}}await caches.delete(name)}catch{/* Keep the old image cache if migration could not finish. */}}
  await self.clients.claim();
 })()));

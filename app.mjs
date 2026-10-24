@@ -2,7 +2,7 @@ import { DAY, defaultSettings, schedule, preview, intervalLabel, dayKey } from '
 const SUBJECTS=Object.freeze({pharmacology:{label:'藥理學',short:'藥理',key:'pharma-recall-v1',file:'cards.json'},pharmacognosy:{label:'生藥學',short:'生藥',key:'pharmacognosy-recall-v1',file:'pharmacognosy.json'},plant_tissue_culture:{label:'植物組織培養',short:'組培',key:'plant-tissue-culture-recall-v1',file:'plant-tissue-culture.json'}});
 const requestedSubject=new URL(location.href).searchParams.get('subject');
 const SUBJECT=Object.hasOwn(SUBJECTS,requestedSubject)?requestedSubject:'pharmacology';
-const KEY=SUBJECTS[SUBJECT].key, CACHE='pharma-recall-assets-v4-20261024';
+const KEY=SUBJECTS[SUBJECT].key, CACHE='pharma-recall-assets-v5-plant-verified';
 const PRIVACY_NOTE='題庫可分享，進度僅存在此裝置瀏覽器，各科分開；換裝置用備份。';
 function subjectUrl(subject=SUBJECT){const id=Object.hasOwn(SUBJECTS,subject)?subject:'pharmacology',url=new URL('./',location.href);url.search='';url.hash='';url.username='';url.password='';url.searchParams.set('subject',id);return url.href}
 function optionParts(option,index){const raw=String(option),match=raw.match(/^\s*(?:[（(]\s*([A-E])\s*[）)]\s*[.、．:：]?|([A-E])[.、．:：)）\s])\s*/);return {letter:match?.[1]||match?.[2]||String.fromCharCode(65+index),text:match?raw.slice(match[0].length):raw}}
