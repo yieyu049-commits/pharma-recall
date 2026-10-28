@@ -14,3 +14,5 @@
 .memory-aid{margin:20px 0;padding:18px 16px;border:1px solid #cbd9c8;border-radius:16px;background:#f2f5ec;color:var(--ink)}.memory-aid h3{margin:0 0 12px;font-size:15px;color:var(--green)}.memory-key{font-size:15px;font-weight:650;line-height:1.75;margin:0 0 12px}.memory-mnemonic{padding:12px;border-radius:10px;background:#fffdf5;font-size:16px;font-weight:600;line-height:1.7;white-space:pre-line;margin:0 0 10px}.memory-mnemonic span{display:block;font-size:10px;font-weight:500;color:var(--muted);letter-spacing:.12em;margin-bottom:5px}.memory-connection,.memory-pitfall,.memory-caution{font-size:13px;line-height:1.85;white-space:pre-line;overflow-wrap:anywhere;margin:8px 0}.memory-caution{color:#825b2b}.memory-review{background:#fbf5e9;border-color:#e4d0a9}.memory-review h3{color:#825b2b}.memory-sources{margin-top:12px;font-size:12px}.memory-sources summary{cursor:pointer;color:var(--muted);padding:5px 0}.memory-sources a{display:inline-block;margin:6px 14px 0 0;color:var(--green)}
 
 .source-explanation-label{font-size:12px;color:#825b2b;margin:18px 0 8px;line-height:1.7}
+
+.subject-switch>.subject-tab:last-child:nth-child(odd){grid-column:1/-1}

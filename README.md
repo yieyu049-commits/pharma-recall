@@ -1,15 +1,19 @@
-# 每日回想｜藥理學、生藥學與植物組織培養
+# 每日回想｜藥學隨身題庫
 
-[藥理學題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacology) · [生藥學題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacognosy) · [植物組織培養題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=plant_tissue_culture)
+手機直接開啟，不需登入 GPT 或 GitHub，每天不限題數。
 
-手機直接開啟，不需登入 GPT 或 GitHub，每天不限題數。可依到期時間複習，也可按章節、搜尋、收藏或曾忘記的題目自由刷題。
+- [藥理學總題庫](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacology)
+- [藥理獨家期中](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacology_exclusive)
+- [生藥學](https://yieyu049-commits.github.io/pharma-recall/?subject=pharmacognosy)
+- [植物組織培養](https://yieyu049-commits.github.io/pharma-recall/?subject=plant_tissue_culture)
+- [中藥藥物學](https://yieyu049-commits.github.io/pharma-recall/?subject=chinese_materia_medica)
 
-三科的題庫檔案、作答紀錄、收藏、錯題與複習排程分開儲存。既有藥理學與生藥學卡號、進度保留。植物組織培養收錄 78 題、8 個主題，原先缺字的 7 題已依課程投影片、原廠配方與學術來源校訂並核對答案，全部 78 題納入正常刷題。校訂範圍、來源與無法逐字恢復之處均標註在個別題卡。
+各題庫的排程、收藏、錯題與備份分開儲存。進度只保存在各自裝置的瀏覽器；分享網址不包含個人進度。換裝置、換瀏覽器或清除網站資料前，請先在設定匯出，再於相同考科匯入備份。
 
-分享網站網址即可與朋友共用題庫。每個人的進度只存在各自裝置的瀏覽器，不會傳到 GitHub 或共同伺服器。分享連結不含個人進度；朋友首次開啟會從自己的新進度開始。同一裝置的同一瀏覽器使用同一份本機進度。
+中藥藥物學收錄《中藥藥物學上課討論》50題，分為總論6題、解表藥31題、補益藥至甘草13題。原PDF附答案表，沒有逐題詳解；補充的記憶點與聯想另行標示，翻面後才顯示。中藥內容依傳統理論與教材分類理解，個別題卡可回查原題頁碼及補充來源。
 
-進度不會自動跨裝置同步。換裝置、換瀏覽器、換網址或清除網站資料前，請在設定匯出備份，再於對應科目匯入。每份備份標示科目，避免混用；舊版藥理備份仍可在藥理學題庫匯入。
+藥理獨家期中也附記憶點、聯想與辨析提醒。有疑義的題目保留來源紀錄，預設不納入正常複習，可在題庫查看或自行於設定開啟。
 
-iPhone 用 Safari「分享 → 加入主畫面」；Android 用 Chrome「安裝應用程式／加到主畫面」。設定可下載題庫供離線使用。
+複習依「忘記／困難／記得／熟練」調整間隔，也可自由刷整組題目。查看或略過題目不改進度，按下評分才會儲存。
 
-排程參考 SM-2 概念，採簡化自適應間隔，不估算精確個人遺忘率。題目、答案與詳解依提供的來源整理，保留原檔疑義標記。
+iPhone可用Safari「分享→加入主畫面」；Android可用Chrome「安裝應用程式／加到主畫面」。設定中可下載題庫供離線使用。
